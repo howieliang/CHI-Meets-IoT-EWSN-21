@@ -1,13 +1,13 @@
 # EWSN '21 Workshop on Computer-Human Interaction and Human-Based Applications Using IoT Solutions
 
+![Banner](IoT.png)
+
 ## Welcome to CHI Meets IoT!
 The CHI Meets IoT workshop brings together researchers and practitioners from industrial design, computer science, and electrical engineering working on new challenges in industry and academia. The workshop will provide a platform for participants to review and discuss challenges and opportunities in the intersection of computer-human interaction and the internet of things, focusing on human-based applications using emerging connectivity and sensing technologies. We aim to jointly develop a design space and identify opportunities for future research. This workshop will be co-located with [EWSN 2021](https://ewsn2021.ewi.tudelft.nl/) Conference.
 
-Rong-Hao Liang<sup>1,4</sup>, Alessandro Chiumento<sup>2</sup>, Marco Zuniga<sup>3</sup>, Przemysław Pawełczak<sup>3</sup>, Mathias Funk<sup>1</sup>, Yaliang Chuang<sup>1</sup>\
-<sup>1</sup>Industrial Design Department, Eindhoven University of Technology\
-<sup>2</sup>Faculty of Electrical Engineering, University of Twente\
-<sup>3</sup>Computer Science Department, Delft University of Technology\
-<sup>4</sup>Electrical Engineering Department, Eindhoven University of Technology\
+Rong-Hao Liang<sup>1,4</sup>, Alessandro Chiumento<sup>2</sup>, Marco Zuniga<sup>3</sup>, Przemysław Pawełczak<sup>3</sup>, Mathias Funk<sup>1</sup>, and Yaliang Chuang<sup>1</sup>\
+<sup>1</sup>Industrial Design Department, Eindhoven University of Technology, <sup>2</sup>Faculty of Electrical Engineering, University of Twente\
+<sup>3</sup>Computer Science Department, Delft University of Technology, <sup>4</sup>Electrical Engineering Department, Eindhoven University of Technology\
 <sup>1</sup>{r.liang,m.funk,y.chuang}@tue.nl, <sup>2</sup>a.chiumento@utwente.nl, <sup>3</sup>{m.a.zunigazamalloa,p.pawelczak}@tudelft.nl
 
 ## Goal of CHI Meets IoT
