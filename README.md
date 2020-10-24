@@ -14,7 +14,7 @@ Rong-Hao Liang<sup>1,4</sup>, Alessandro Chiumento<sup>2</sup>, Marco Zuniga<sup
 We will discuss the challenges and opportunities associated with emerging IoT technologies in human-based applications. It will bring together an international and cross-disciplinary group of researchers from academia and industry to collaborate and explore the topic. We aim at building a community in which CHI and IoT researchers can exchange views and begin fruitful collaboration.
 
 ## Attending CHI Meets IoT
-The workshop will be held on Feb. 17 as a half-day of full-day event, depending on the total number of papers received.
+The workshop will be held on Feb. 17 as a half-day of full-day event, depending on the total number of papers received.\
 **COVID19 Mitigation:** The organization team is monitoring closely the COVID19 situation. Remote presentations will be allowed. 
 Depending on how things develop, the workshop will be held fully online or in a hybrid manner.
 
