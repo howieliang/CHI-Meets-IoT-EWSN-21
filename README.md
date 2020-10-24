@@ -7,9 +7,9 @@ The CHI Meets IoT workshop brings together researchers and practitioners from in
 
 Rong-Hao Liang<sup>1,4</sup>, Alessandro Chiumento<sup>2</sup>, Marco Zuniga<sup>3</sup>, Przemysław Pawełczak<sup>3</sup>, Mathias Funk<sup>1</sup>, and Yaliang Chuang<sup>1</sup>\
 *<sup>1</sup>Industrial Design Department, TU Eindhoven* \
-*<sup>2</sup>Faculty of Electrical Engineering, University of Twente*\
-*<sup>3</sup>Computer Science Department, TU Delft*\
-*<sup>4</sup>Electrical Engineering Department, TU Eindhoven*\
+*<sup>2</sup>Faculty of Electrical Engineering, University of Twente* \
+*<sup>3</sup>Computer Science Department, TU Delft* \
+*<sup>4</sup>Electrical Engineering Department, TU Eindhoven*
 
 ## Goal of CHI Meets IoT
 We will discuss the challenges and opportunities associated with emerging IoT technologies in human-based applications. It will bring together an international and cross-disciplinary group of researchers from academia and industry to collaborate and explore the topic. We aim at building a community in which CHI and IoT researchers can exchange views and begin fruitful collaboration.
