@@ -4,11 +4,11 @@ EWSN 2021 Workshop on Computer-Human Interaction Meets Internet of Things (CHI M
 ## Welcome to CHI Meets IoT: Workshop on Computer-Human Interaction and Human-Based Applications Using IoT Solutions
 The CHI Meets IoT workshop brings together researchers and practitioners from industrial design, computer science, and electrical engineering working on new challenges in industry and academia. The workshop will provide a platform for participants to review and discuss challenges and opportunities in the intersection of computer-human interaction and the internet of things, focusing on human-based applications using emerging connectivity and sensing technologies. We aim to jointly develop a design space and identify opportunities for future research. This workshop will be co-located with EWSN 2021 Conference.
 
-Rong-Hao Liang <sup>1,4</sup>, Alessandro Chiumento<sup>2</sup>, Marco Zuniga<sup>3</sup>, Przemysław Pawełczak<sup>3</sup>, Mathias Funk<sup>1</sup>, Yaliang Chuang<sup>1</sup>. 
-<sup>1</sup>Industrial Design Department, Eindhoven University of Technology. 
-<sup>2</sup>Faculty of Electrical Engineering, University of Twente. 
-<sup>3</sup>Computer Science Department, Delft University of Technology. 
-<sup>4</sup>Electrical Engineering Department, Eindhoven University of Technology. 
+Rong-Hao Liang <sup>1,4</sup>, Alessandro Chiumento<sup>2</sup>, Marco Zuniga<sup>3</sup>, Przemysław Pawełczak<sup>3</sup>, Mathias Funk<sup>1</sup>, Yaliang Chuang<sup>1</sup>\ 
+<sup>1</sup>Industrial Design Department, Eindhoven University of Technology\
+<sup>2</sup>Faculty of Electrical Engineering, University of Twente\ 
+<sup>3</sup>Computer Science Department, Delft University of Technology\
+<sup>4</sup>Electrical Engineering Department, Eindhoven University of Technology\ 
 
 ## Goal of The Workshop
 We will discuss the challenges and opportunities associated with emerging IoT technologies in human-based applications. It will bring together an international and cross-disciplinary group of researchers from academia and industry to collaborate and explore the topic. We aim at building a community in which CHI and IoT researchers can exchange views and begin fruitful collaboration.
