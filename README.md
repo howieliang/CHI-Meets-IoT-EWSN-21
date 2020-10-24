@@ -1,4 +1,4 @@
-# EWSN '21 Workshop on Computer-Human Interaction and Human-Based Applications Using IoT Solutions
+## EWSN '21 Workshop on Computer-Human Interaction and Human-Based Applications Using IoT Solutions
 
 ![Banner](IoT.png)
 
