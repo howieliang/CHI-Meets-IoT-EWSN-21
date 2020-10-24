@@ -57,6 +57,9 @@ The organising team combines expertise and interests from Computer-Human Interac
 
 **Yaliang Chuang** is Assistant Professor in Industrial Design Department, Eindhoven University of Technology. His research focuses on exploring the applications and user experience of connected products or systems, such as Smart Home, utilizing LED light patterns and sounds for expressing easy-to-understand semantic meanings to facilitate natural and seamless interactions. 
 
+## Contact Us
+If you have questions or need further information, please contact us via [email](mailto:r.liang@tue.nl) with a subject "CHIxIOT '21: (your question)".
+
 ## Acknowledgments
 This workshop is supported by the 4TU.NIRICT community funding.
 
