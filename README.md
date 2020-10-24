@@ -2,20 +2,17 @@
 
 ![Banner](IoT.jpg)
 
-## Welcome to CHI Meets IoT!
-The CHI Meets IoT workshop brings together researchers and practitioners from industrial design, computer science, and electrical engineering working on new challenges in industry and academia. The workshop will provide a platform for participants to review and discuss challenges and opportunities in the intersection of computer-human interaction and the internet of things, focusing on human-based applications using emerging connectivity and sensing technologies. We aim to jointly develop a design space and identify opportunities for future research. This workshop will be co-located with [EWSN 2021](https://ewsn2021.ewi.tudelft.nl/) Conference.
+## Welcome to *CHI Meets IoT*!
+The *CHI Meets IoT* workshop brings together researchers and practitioners from industrial design, computer science, and electrical engineering working on new challenges in industry and academia. The workshop will provide a platform for participants to review and discuss challenges and opportunities in the intersection of computer-human interaction and the internet of things, focusing on human-based applications using emerging connectivity and sensing technologies. We aim to jointly develop a design space and identify opportunities for future research. This workshop will be co-located with [EWSN 2021](https://ewsn2021.ewi.tudelft.nl/) Conference.
 
-Rong-Hao Liang<sup>1,4</sup>, Alessandro Chiumento<sup>2</sup>, Marco Zuniga<sup>3</sup>, Przemysław Pawełczak<sup>3</sup>, Mathias Funk<sup>1</sup>, and Yaliang Chuang<sup>1</sup>\
-*<sup>1</sup>Industrial Design Department, TU Eindhoven* \
-*<sup>2</sup>Faculty of Electrical Engineering, University of Twente* \
-*<sup>3</sup>Computer Science Department, TU Delft* \
-*<sup>4</sup>Electrical Engineering Department, TU Eindhoven*
+The CHI Meets IoT workshop is organized by Rong-Hao Liang (TU Eindhoven), Alessandro Chiumento (University of Twente), Marco Zuniga (TU Delft), Przemysław Pawełczak (TU Delft), Mathias Funk (TU Eindhoven), and Yaliang Chuang (TU Eindhoven).
 
 ## Goal of CHI Meets IoT
 We will discuss the challenges and opportunities associated with emerging IoT technologies in human-based applications. It will bring together an international and cross-disciplinary group of researchers from academia and industry to collaborate and explore the topic. We aim at building a community in which CHI and IoT researchers can exchange views and begin fruitful collaboration.
 
 ## Attending CHI Meets IoT
 The workshop will be held on Feb. 17 as a half-day of full-day event, depending on the total number of papers received.\
+The registration website will be announced later.
 **COVID19 Mitigation:** The organization team is monitoring closely the COVID19 situation. Remote presentations will be allowed. 
 Depending on how things develop, the workshop will be held fully online or in a hybrid manner.
 
@@ -54,7 +51,7 @@ The organising team combines expertise and interests from Computer-Human Interac
 
 **Marco Zuniga** is Associate Professor in Computer Science Department, Delft University of Technology. His research interests are broadly in the areas of the Internet of Things (IoT), visible light communication, pervasive computing, wireless networks and cyber physical systems (CPS). He is particularly interested in research problems that are amenable to both, simple mathematical analysis and system evaluation.
 
-**Przemyslaw Pawelczak** received the MSc degree from the Wroclaw University of Technology, Poland, in 2004 and the PhD degree from the Delft University of Technology, The Netherlands, in 2009. Since 2013, he is employed as assistant professor with the Embedded and Networked Systems Group, Delft University of Technology, The Netherlands. His research interests include wireless networking and intermittently-powered devices.
+**Przemysław Pawełczak** received the MSc degree from the Wrocław University of Technology, Poland, in 2004 and the PhD degree from the Delft University of Technology, The Netherlands, in 2009. Since 2013, he is employed as assistant professor with the Embedded and Networked Systems Group, Delft University of Technology, The Netherlands. His research interests include wireless networking and intermittently-powered devices.
 
 **Mathias Funk** is Associate Professor in Industrial Design Department, Eindhoven University of Technology. He leads the Things Ecology lab. In addition, he is the co-founder of UXsuite GmbH, a high-tech spin-off of Eindhoven University of Technology (TU/e). He is interested in design theory and processes for systems, designing systems for musical expression, and designing with data.  
 
