@@ -47,7 +47,7 @@ At least one author of each accepted paper must register for the workshop and fo
 ## Organizers
 The organising team combines expertise and interests from Computer-Human Interaction, Electrical Engineering and Computer Science. 
 
-**Rong-Hao Liang** is Assistant Professor in Industrial Design Department and Electrical Engineering Department, Eindhoven University of Technology. He is also the co-founder of GaussToys Inc. He has an interest in technical human-computer interaction research, with a specific focus on innovative tangible and wearable sensors, ubiquitous displays and rapid prototyping tools.
+**Rong-Hao Liang** is Assistant Professor in Industrial Design Department and Electrical Engineering Department, Eindhoven University of Technology. He is also the co-founder of GaussToys Inc. He has an interest in technical human-computer interaction research, with a specific focus on innovative tangible and wearable sensors and rapid prototyping tools in the ubiquitous computing context.
 
 **Alessandro Chiumento** is Assistant Professor in Computer Science in the Pervasive Systems research group at the University of Twente. His work is focused on the interaction between distributed dynamical systems and their environment, this includes the interplay between edge computing, sensing and machine learning for controlling IoT networks. 
 
@@ -59,5 +59,6 @@ The organising team combines expertise and interests from Computer-Human Interac
 
 **Yaliang Chuang** is Assistant Professor in Industrial Design Department, Eindhoven University of Technology. His research focuses on exploring the applications and user experience of connected products or systems, such as Smart Home, utilizing LED light patterns and sounds for expressing easy-to-understand semantic meanings to facilitate natural and seamless interactions. 
 
-
+## Acknowledgments
+This workshop is supported by the 4TU.NIRICT community funding.
 
