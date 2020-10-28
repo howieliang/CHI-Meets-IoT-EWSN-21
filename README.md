@@ -40,10 +40,9 @@ At least one author of each accepted paper must register for the workshop and fo
 ## Attending *CHI Meets IoT*
 The workshop will be held on Feb. 17 as a half-day of full-day event, depending on the total number of papers received.\
 The registration website will be announced later.
+
 **COVID19 Mitigation:** The organization team is monitoring closely the COVID19 situation. Remote presentations will be allowed. 
 Depending on how things develop, the workshop will be held fully online or in a hybrid manner.
-
-Rong-Hao Liang (TU Eindhoven),  (University of Twente),  (TU Delft),  (TU Delft), [Mathias Funk](https://www.mathias-funk.com/) (TU Eindhoven), and [Yaliang Chuang](https://www.tue.nl/en/research/researchers/yaliang-chuang/) (TU Eindhoven).
 
 ## Organizers
 The organising team combines expertise and interests from Computer-Human Interaction, Electrical Engineering and Computer Science. 
