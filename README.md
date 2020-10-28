@@ -1,4 +1,3 @@
----
 ## EWSN '21 Workshop on Computer-Human Interaction and Human-Based Applications Using IoT Solutions
 **Feburary 17, 2021. Delft, The Netherlands**
 
