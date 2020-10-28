@@ -1,3 +1,4 @@
+---
 ## EWSN '21 Workshop on Computer-Human Interaction and Human-Based Applications Using IoT Solutions
 **Feburary 17, 2021. Delft, The Netherlands**
 
@@ -36,7 +37,7 @@ At least one author of each accepted paper must register for the workshop and fo
 - Submission deadline for position papers: January 6th, 2020 (AoE)
 - Notification of acceptance: January 13th, 2021 (AoE)
 
-## Attending CHI Meets IoT
+## Attending *CHI Meets IoT*
 The workshop will be held on Feb. 17 as a half-day of full-day event, depending on the total number of papers received.\
 The registration website will be announced later.
 **COVID19 Mitigation:** The organization team is monitoring closely the COVID19 situation. Remote presentations will be allowed. 
