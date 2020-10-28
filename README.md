@@ -2,6 +2,12 @@
 **Feburary 17, 2021. Delft, The Netherlands**
 
 ![Banner](IoT.png)
+(Source: https://www.stockvault.net/)
+
+<figure>
+  <img src="IoT.png" alt="Caption text">
+  <figcaption>Caption text</figcaption>
+</figure>
 
 ## Welcome to *CHI Meets IoT*!
 The *CHI Meets IoT* workshop brings together researchers and practitioners from industrial design, computer science, and electrical engineering working on new challenges in industry and academia. The workshop will provide a platform for participants to review and discuss challenges and opportunities in the intersection of computer-human interaction and the internet of things, focusing on human-based applications using emerging connectivity and sensing technologies. We aim to jointly develop a design space and identify opportunities for future research. This workshop will be co-located with [EWSN 2021](https://ewsn2021.ewi.tudelft.nl/) Conference.
@@ -31,9 +37,9 @@ Researchers from both Computer-Human Interaction and IoT Systems are invited to 
 At least one author of each accepted paper must register for the workshop and for one day of the conference itself. Participants will be invited to present a position statement at the workshop and will actively engage in a discourse on the meaningful design space for researching computer-human interaction and human-based applications in Internet of Things.
 
 **Important Dates**
-- Abstract deadlines for position papers: December 23th, 2020
-- Submission deadline for position papers: January 6th, 2020 
-- Notification of acceptance: January 13th, 2021
+- Abstract deadlines for position papers: December 23th, 2020 (AoE)
+- Submission deadline for position papers: January 6th, 2020 (AoE)
+- Notification of acceptance: January 13th, 2021 (AoE)
 
 ## Attending CHI Meets IoT
 The workshop will be held on Feb. 17 as a half-day of full-day event, depending on the total number of papers received.\
@@ -57,6 +63,9 @@ The organising team combines expertise and interests from Computer-Human Interac
 **[Mathias Funk](https://www.mathias-funk.com/)** is Associate Professor in Industrial Design Department, Eindhoven University of Technology. He leads the Things Ecology lab. In addition, he is the co-founder of UXsuite GmbH, a high-tech spin-off of Eindhoven University of Technology (TU/e). He is interested in design theory and processes for systems, designing systems for musical expression, and designing with data.  
 
 **[Yaliang Chuang](https://www.tue.nl/en/research/researchers/yaliang-chuang/)** is Assistant Professor in Industrial Design Department, Eindhoven University of Technology. His research focuses on exploring the applications and user experience of connected products or systems, such as Smart Home, utilizing LED light patterns and sounds for expressing easy-to-understand semantic meanings to facilitate natural and seamless interactions. 
+
+## Technical Program Committee Members
+TBD
 
 ## Contact Us
 If you have questions or need further information, please contact us via [email](mailto:r.liang@tue.nl) with a subject "CHIxIOT '21: (your question)".
