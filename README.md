@@ -2,7 +2,7 @@
 **Feburary 17, 2021. Delft, The Netherlands**
 
 ![Banner](IoT.png)
-<sub><span style="color:gray">Source: https://www.stockvault.net/</span></sub>
+<sub><span style="color:gray">Image via [Stockvault](https://www.stockvault.net/) (copyright-free)</span></sub>
 
 ## Welcome to *CHI Meets IoT*!
 The *CHI Meets IoT* workshop brings together researchers and practitioners from industrial design, computer science, and electrical engineering working on new challenges in industry and academia. The workshop will provide a platform for participants to review and discuss challenges and opportunities in the intersection of computer-human interaction and the internet of things, focusing on human-based applications using emerging connectivity and sensing technologies. We aim to jointly develop a design space and identify opportunities for future research. This workshop will be co-located with [EWSN 2021](https://ewsn2021.ewi.tudelft.nl/) Conference.
