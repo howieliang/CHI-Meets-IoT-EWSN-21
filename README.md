@@ -1,13 +1,14 @@
-## EWSN '21 Workshop on Computer-Human Interaction and Human-Based Applications Using IoT Solutions
-**Feburary 17, 2021. Delft, The Netherlands**
+<!-- ## EWSN '21 Workshop on Computer-Human Interaction and Human-Based Applications Using IoT Solutions
+**Feburary 17, 2021. Delft, The Netherlands** -->
+
+## Welcome to *CHI meets IoT*: EWSN '21 Workshop on Computer-Human Interaction and Human-Based Applications Using IoT Solutions
 
 ![Banner](IoT.png)
 <sub><span style="color:gray">Image via [Stockvault](https://www.stockvault.net/) (copyright-free)</span></sub>
 
-## Welcome to *CHI Meets IoT*!
 The *CHI Meets IoT* workshop brings together researchers and practitioners from industrial design, computer science, and electrical engineering working on new challenges in industry and academia. The workshop will provide a platform for participants to review and discuss challenges and opportunities in the intersection of computer-human interaction and the internet of things, focusing on human-based applications using emerging connectivity and sensing technologies. We aim to jointly develop a design space and identify opportunities for future research. This workshop will be co-located with **[EWSN 2021](https://ewsn2021.ewi.tudelft.nl/)**: The 18th International Conference on Embedded Wireless Systems and Networks.
 
-## Goal of *CHI Meets IoT*
+## Goal of *CHI meets IoT*
 We will discuss the challenges and opportunities associated with emerging IoT technologies in human-based applications. It will bring together an international and cross-disciplinary group of researchers from academia and industry to collaborate and explore the topic. We aim at building a community in which CHI and IoT researchers can exchange views and begin fruitful collaboration.
 
 ## Call for Participation
@@ -36,7 +37,7 @@ At least one author of each accepted paper must register for the workshop and fo
 - Submission deadline for position papers: January 6th, 2020 (AoE)
 - Notification of acceptance: January 13th, 2021 (AoE)
 
-## Attending *CHI Meets IoT*
+## Attending *CHI meets IoT*
 The workshop will be held on Feb. 17 as a half-day of full-day event, depending on the total number of papers received.\
 The registration website will be announced later.
 
