@@ -44,8 +44,7 @@ All materials must be submitted electronically to EasyChair (https://easychair.o
 The workshop will be held on Feb. 17 as a half-day of full-day event, depending on the total number of papers received.\
 The registration website will be announced later.
 
-**COVID19 Mitigation:** The organization team is monitoring closely the COVID19 situation. Remote presentations will be allowed. 
-Depending on how things develop, the workshop will be held fully online or in a hybrid manner.
+**COVID19 Mitigation:** The organization team is monitoring closely the COVID19 situation. Remote presentations will be allowed. Depending on how things develop, the workshop will be held fully online or in a hybrid manner.
 
 ## Organizers
 The organising team combines expertise and interests from Computer-Human Interaction, Electrical Engineering and Computer Science. 
@@ -66,7 +65,7 @@ The organising team combines expertise and interests from Computer-Human Interac
 TBD
 
 ## Contact Us
-If you have questions or need further information, please contact us via [email](mailto:r.liang@tue.nl) with a subject "CHImeetsIOT '21: (your question)".
+If you have questions or need further information, please contact us via [email](mailto:r.liang@tue.nl) with a subject "CHIIoT 1: (your question)".
 
 ## Acknowledgments
 This workshop is supported by the 4TU.NIRICT community funding.
