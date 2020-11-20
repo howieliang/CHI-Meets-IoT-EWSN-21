@@ -33,7 +33,7 @@ Researchers from both Computer-Human Interaction and IoT Systems are invited to 
 At least one author of each accepted paper must register for the workshop and for one day of the conference itself. Participants will be invited to present a position statement at the workshop and will actively engage in a discourse on the meaningful design space for researching computer-human interaction and human-centered applications in Internet of Things.
 
 **Submission Platform**	
-All materials must be submitted electronically to EasyChair http://new.precisionconference.com/~sigchi by the deadline.
+All materials must be submitted electronically to EasyChair (https://easychair.org/conferences/?conf=chimeetsiot21q1) by the deadline.
 
 **Important Dates**
 - Abstract deadlines for position papers: December 23th, 2020 (AoE)
