@@ -28,10 +28,9 @@ Topics of interest include but are not limited to:
 - Human Factors in Human-IoT systems  
 - 5G and Beyond-5G studies for indoor and city scenarios 
 
-Researchers from both Computer-Human Interaction and IoT Systems are invited to submit a 2-6 pages (ACM SIGCHI Template) position paper. This position paper should address one or more of the workshop’s topic of interests or suggest another (we encourage visionary and provocative ideas). All submissions will be reviewed by the a technical program committee. Paper accompanying demos are encouraged, and will be allocated time in the workshop agenda. Participants will be selected on the basis of the quality of their position paper and on the basis of background and perspective.  
+Researchers from both Computer-Human Interaction and IoT Systems are invited to submit a 2-6 pages position paper using the ACM SIGCHI Template. This position paper should address one or more of the workshop’s topic of interests or suggest another (we encourage visionary and provocative ideas). All submissions will be reviewed by the a technical program committee. Paper accompanying demos are encouraged, and will be allocated time in the workshop agenda. Participants will be selected on the basis of the quality of their position paper and on the basis of background and perspective.  
 
 At least one author of each accepted paper must register for the workshop and for one day of the conference itself. Participants will be invited to present a position statement at the workshop and will actively engage in a discourse on the meaningful design space for researching computer-human interaction and human-centered applications in Internet of Things.
-
 
 **Submission Platform**	
 All materials must be submitted electronically to EasyChair http://new.precisionconference.com/~sigchi by the deadline.
