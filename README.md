@@ -1,7 +1,7 @@
 <!-- ## EWSN '21 Workshop on Computer-Human Interaction and human-centered Applications Using IoT Solutions
 **Feburary 17, 2021. Delft, The Netherlands** -->
 
-## Welcome to *CHIIoT*: 1st Workshop on Computer Human Interaction in IoT Applications
+## Welcome to *CHIIoT*: 1st CHIIoT Workshop on Computer Human Interaction in IoT Applications
 
 ![Banner](banner.jpg)
 <sub><span style="color:gray">Image via [Stockvault](https://www.stockvault.net/) (copyright-free)</span></sub>
