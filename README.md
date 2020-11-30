@@ -3,7 +3,7 @@
 
 ## Welcome to *CHIIoT*: 1st Workshop on Computer Human Interaction in IoT Applications
 
-![Banner](social.jpg)
+![Banner](social2.jpg)
 <sub><span style="color:gray">Image via [Stockvault](https://www.stockvault.net/) (copyright-free)</span></sub>
 
 The *CHIIoT* workshop brings together researchers and practitioners from industrial design, computer science, and electrical engineering working on new challenges in industry and academia. The workshop will provide a platform for participants to review and discuss challenges and opportunities in the intersection of computer-human interaction and the internet of things, focusing on human-centered applications using emerging connectivity and sensing technologies. We aim to jointly develop a design space and identify opportunities for future research. This workshop will be co-located with **[EWSN 2021](https://ewsn2021.ewi.tudelft.nl/)**: The 18th International Conference on Embedded Wireless Systems and Networks.
