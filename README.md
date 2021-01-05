@@ -38,7 +38,7 @@ All materials must be submitted electronically to
 **[EasyChair System](https://easychair.org/conferences/?conf=chimeetsiot21q1)** by the deadline.
 
 **Important Dates**
-- Abstract deadlines for position papers: ~~December 23rd, 2020 (AoE)~~ January 13th, 2021 (AoE)
+- Abstract deadlines for position papers: December 23rd, 2020 (AoE)
 - Submission deadline for position papers: ~~January 6th, 2021 (AoE)~~  January 13th, 2021 (AoE)
 - Notification of acceptance: ~~January 13th, 2021 (AoE)~~ January 20th, 2021 (AoE)
 
