@@ -28,7 +28,7 @@ Topics of interest include but are not limited to:
 - Human Factors in Human-IoT systems  
 - 5G and Beyond-5G studies for indoor and city scenarios 
 
-Researchers from both Computer-Human Interaction and IoT Systems are invited to submit a 2-6 pages position paper using the ACM [Two-column SIGCHI Master template](https://www.acm.org/publications/proceedings-template). This position paper should address one or more of the workshop’s topics of interest or suggest another (we encourage visionary and provocative ideas). All submissions will be reviewed by the technical program committee. Paper accompanying demos are encouraged, and will be allocated time in the workshop agenda. Participants will be selected on the basis of the quality of their position paper and on the basis of background and perspective.  
+Researchers from both Computer-Human Interaction and IoT Systems are invited to submit a 2-6 pages position paper using the ACM [Two-column SIGCHI Master template](https://www.acm.org/publications/proceedings-template). The submission doesnot have to be anonymized. This position paper should address one or more of the workshop’s topics of interest or suggest another (we encourage visionary and provocative ideas). All submissions will be reviewed by the technical program committee. Paper accompanying demos are encouraged, and will be allocated time in the workshop agenda. Participants will be selected on the basis of the quality of their position paper and on the basis of background and perspective. Multimedia files should be attached as an link in the footnote.
 
 At least one author of each accepted paper must register for the workshop and for one day of the conference itself. Participants will be invited to present a position statement at the workshop and will actively engage in a discourse on the meaningful design space for researching computer-human interaction and human-centered applications in Internet of Things.
 
@@ -38,9 +38,9 @@ All materials must be submitted electronically to
 **[EasyChair System](https://easychair.org/conferences/?conf=chimeetsiot21q1)** by the deadline.
 
 **Important Dates**
-- Abstract deadlines for position papers: December 23rd, 2020 (AoE)
-- Submission deadline for position papers: January 6th, 2021 (AoE)
-- Notification of acceptance: January 13th, 2021 (AoE)
+- Abstract deadlines for position papers: ~~December 23rd, 2020 (AoE)~~ January 13th, 2021 (AoE)
+- Submission deadline for position papers: ~~January 6th, 2021 (AoE)~~  January 13th, 2021 (AoE)
+- Notification of acceptance: ~~January 13th, 2021 (AoE)~~ January 20th, 2021 (AoE)
 
 ## Attending *CHIIoT*
 The workshop will be held on Feb. 17 as a half-day of full-day event, depending on the total number of papers received.\
