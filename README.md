@@ -11,6 +11,40 @@ The *CHIIoT* workshop brings together researchers and practitioners from industr
 ## Goal of *CHIIoT*
 We will discuss the challenges and opportunities associated with emerging IoT technologies in human-centered applications. It will bring together an international and cross-disciplinary group of researchers from academia and industry to collaborate and explore the topic. We aim at building a community in which CHI and IoT researchers can exchange views and begin fruitful collaboration.
 
+## Accepted Papers
+
+### Low-Cost Millimeter-Wave Interactive Sensing through Origami Reflectors
+#### Riku Arakawa and Yang Zhang	
+ 
+### Field Lab: An Intelligent Ecosystem for Longitudinal Design Research
+#### Peter Lovei, Eva Deckers, Mathias Funk and Stephan Wensveen	
+ 
+### External Communication for Automated Vehicles (AV): Designing for AV-Pedestrian Interactions
+#### Debargha Dey, Bastian Pfleging, Marieke Martens and Jacques Terken	
+ 
+### Cooperation and Competition in the IoT Sandbox
+#### Joep Frens and Mathias Funk	
+ 
+### Personal hygiene monitoring under the shower using WiFi channel state information
+#### Jeroen Klein Brinke, Alessandro Chiumento and Paul Havinga	
+ 
+### ESPBoost: A Rapid Prototyping Toolkit for Helping Designers Create the Internet of Tangible Things
+#### Sark Xing and Yaliang Chuang	
+ 
+### Human Computer Interaction aspects of Low-Power Wide Area Networks for Wearable Applications
+#### Charalampos Orfanidis, Martin Jacobsson and Xenofon Fafoutis	
+
+## Accepted Posters
+ 
+### Communication with Ambient Light using Digital Micromirror Devices
+#### Roy Blokker, Talia Xu and Marco Zuniga	
+ 
+### Data Design Futures: Who is Responsible?
+#### Renee Noortman	
+ 
+### Epidermal Sensing of Muscle Compensation
+#### Pei-Shin Huang, Yi-Ting Wu and Polly Huang	
+
 ## Call for Participation
 We invite position papers for the **1st Workshop on Computer Human Interaction in IoT Applications (CHIIoT)**. This half-day workshop will offer a cross-disciplinary forum of discussion and knowledge exchange for researchers in the both fields. This workshop looking at the intersection of IoT and CHI, where IoT platforms focusing on human-centered applications and CHI studies using IoT solutions to build interactive environments.  
 
@@ -63,8 +97,8 @@ The organising team combines expertise and interests from Computer-Human Interac
 
 **[Yaliang Chuang](https://www.tue.nl/en/research/researchers/yaliang-chuang/)** is an Assistant Professor in Industrial Design Department, Eindhoven University of Technology. His research focuses on exploring the applications and user experience of connected products or systems, such as Smart Home, utilizing LED light patterns and sounds for expressing easy-to-understand semantic meanings to facilitate natural and seamless interactions.   
 
-## Technical Program Committee Members
-TBD
+<!-- ## Technical Program Committee Members
+TBD -->
 
 ## Contact Us
 If you have questions or need further information, please contact us via [email](mailto:r.liang@tue.nl) with a subject "CHIIoT 1: (your question)".
