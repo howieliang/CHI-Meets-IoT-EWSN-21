@@ -11,6 +11,20 @@ The *CHIIoT* workshop brings together researchers and practitioners from industr
 ## Goal of *CHIIoT*
 We will discuss the challenges and opportunities associated with emerging IoT technologies in human-centered applications. It will bring together an international and cross-disciplinary group of researchers from academia and industry to collaborate and explore the topic. We aim at building a community in which CHI and IoT researchers can exchange views and begin fruitful collaboration.
 
+## Attending *CHIIoT*
+The workshop will be held on Feb. 17, 2pm - 5pm (CET).
+
+## Free registration!
+Together with other co-sponsors (Huawei & CPI-lab), we make this year EWSN/CHIIoT FREE to attend! The registration is free for all participants to the main conference and co-located workshop and tutorials. 
+ 
+Online registration URL: https://www.eventbrite.com/e/ewsn21-registration-134394829553
+
+Both CHIIoT and the EWSN’21 conference will be held fully online, and the registration details can be found on https://ewsn2021.ewi.tudelft.nl/registration
+
+In CHIIoT, we will use Discord with the Zoom Webinar for online discussions and face-to-face meetings. Discord provides a face-to-face experience during the coffee break and interactive poster presentations and a live texting channel for online and off-line discussions.
+
+---
+
 ## Accepted Papers
 
 ### Low-Cost Millimeter-Wave Interactive Sensing through Origami Reflectors
@@ -45,6 +59,8 @@ We will discuss the challenges and opportunities associated with emerging IoT te
 ### Epidermal Sensing of Muscle Compensation
 - Pei-Shin Hwang, Yi-Ting Wu and Polly Huang	
 
+---
+
 ## Call for Participation
 We invite position papers for the **1st Workshop on Computer Human Interaction in IoT Applications (CHIIoT)**. This half-day workshop will offer a cross-disciplinary forum of discussion and knowledge exchange for researchers in the both fields. This workshop looking at the intersection of IoT and CHI, where IoT platforms focusing on human-centered applications and CHI studies using IoT solutions to build interactive environments.  
 
@@ -75,12 +91,6 @@ All materials must be submitted electronically to
 - Abstract deadlines for position papers: December 23rd, 2020 (AoE)
 - Submission deadline for position papers: ~~January 6th, 2021 (AoE)~~  January 13th, 2021 (AoE)
 - Notification of acceptance: ~~January 13th, 2021 (AoE)~~ January 20th, 2021 (AoE)
-
-## Attending *CHIIoT*
-The workshop will be held on Feb. 17 as a half-day of full-day event, depending on the total number of papers received.\
-The registration website will be announced later.
-
-**COVID19 Mitigation:** The organization team is monitoring closely the COVID19 situation. Remote presentations will be allowed. Depending on how things develop, the workshop will be held fully online or in a hybrid manner.
 
 ## Organizers
 The organising team combines expertise and interests from Computer-Human Interaction, Electrical Engineering and Computer Science. 
