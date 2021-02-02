@@ -4,24 +4,21 @@
 ![Banner](social2.jpg)
 <sub><span style="color:gray">Image via [Stockvault](https://www.stockvault.net/) (copyright-free)</span></sub>
 
-## Welcome to *CHIIoT*: 1st Workshop on Computer Human Interaction in IoT Applications
-
-The *CHIIoT* workshop brings together researchers and practitioners from industrial design, computer science, and electrical engineering working on new challenges in industry and academia. The workshop will provide a platform for participants to review and discuss challenges and opportunities in the intersection of computer-human interaction and the internet of things, focusing on human-centered applications using emerging connectivity and sensing technologies. We aim to jointly develop a design space and identify opportunities for future research. This workshop will be co-located with **[EWSN 2021](https://ewsn2021.ewi.tudelft.nl/)**: The 18th International Conference on Embedded Wireless Systems and Networks.
-
-## Goal of *CHIIoT*
-We will discuss the challenges and opportunities associated with emerging IoT technologies in human-centered applications. It will bring together an international and cross-disciplinary group of researchers from academia and industry to collaborate and explore the topic. We aim at building a community in which CHI and IoT researchers can exchange views and begin fruitful collaboration.
-
-## Attending *CHIIoT*
-The workshop will be held on Feb. 17, 2pm - 5pm (CET).
-
 ## Free registration!
-Together with other co-sponsors (Huawei & CPI-lab), we make this year EWSN/CHIIoT FREE to attend! The registration is free for all participants to the main conference and co-located workshop and tutorials. 
+**The 1st CHIIoT workshop will be held on Feb. 17, 2pm - 5pm (CET).** Together with other co-sponsors (Huawei & CPI-lab), we make this year EWSN/CHIIoT FREE to attend! The registration is free for all participants to the main conference and co-located workshop and tutorials. 
  
 Online registration URL: https://www.eventbrite.com/e/ewsn21-registration-134394829553
 
 Both CHIIoT and the EWSN’21 conference will be held fully online, and the registration details can be found on https://ewsn2021.ewi.tudelft.nl/registration
 
 In CHIIoT, we will use Discord with the Zoom Webinar for online discussions and face-to-face meetings. Discord provides a face-to-face experience during the coffee break and interactive poster presentations and a live texting channel for online and off-line discussions.
+
+## Welcome to *CHIIoT*: 1st Workshop on Computer Human Interaction in IoT Applications
+
+The *CHIIoT* workshop brings together researchers and practitioners from industrial design, computer science, and electrical engineering working on new challenges in industry and academia. The workshop will provide a platform for participants to review and discuss challenges and opportunities in the intersection of computer-human interaction and the internet of things, focusing on human-centered applications using emerging connectivity and sensing technologies. We aim to jointly develop a design space and identify opportunities for future research. This workshop will be co-located with **[EWSN 2021](https://ewsn2021.ewi.tudelft.nl/)**: The 18th International Conference on Embedded Wireless Systems and Networks.
+
+## Goal of *CHIIoT*
+We will discuss the challenges and opportunities associated with emerging IoT technologies in human-centered applications. It will bring together an international and cross-disciplinary group of researchers from academia and industry to collaborate and explore the topic. We aim at building a community in which CHI and IoT researchers can exchange views and begin fruitful collaboration.
 
 ---
 
