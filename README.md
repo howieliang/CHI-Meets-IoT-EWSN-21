@@ -6,7 +6,7 @@
 
 # [<u> Free Registration Link</u>](https://www.eventbrite.com/e/ewsn21-registration-134394829553)
 
-### **The 1st CHIIoT workshop will be held on Feb. 17, 2pm - 5pm (CET).** Together with other co-sponsors (Huawei & CPI-lab), we make this year's CHIIoT FREE to attend! The registration is also free for all participants to attend the main **[EWSN 2021](https://ewsn2021.ewi.tudelft.nl/)** conference and the co-located tutorials. 
+### **The 1st CHIIoT workshop will be held on Feb. 17, 2pm - 5pm (CET).** Together with other co-sponsors (Huawei & CPI-lab), we make this year's CHIIoT FREE to attend! The registration is also free for all CHIIoT participants to attend the main **[EWSN 2021](https://ewsn2021.ewi.tudelft.nl/)** conference and the co-located tutorials. 
 
 Both CHIIoT and the EWSN’21 conference will be held fully online, and more registration details can be found via the **[Link](https://ewsn2021.ewi.tudelft.nl/registration)**
 
