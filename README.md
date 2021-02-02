@@ -33,7 +33,7 @@ We will discuss the challenges and opportunities associated with emerging IoT te
 ### Cooperation and Competition in the IoT Sandbox
 - Joep Frens and Mathias Funk	
  
-### Personal hygiene monitoring under the shower using WiFi channel state information
+### Personal Hygiene Monitoring Under the Shower Using WiFi Channel State Information
 - Jeroen Klein Brinke, Alessandro Chiumento and Paul Havinga	
  
 ### ESPBoost: A Rapid Prototyping Toolkit for Helping Designers Create the Internet of Tangible Things
