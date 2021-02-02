@@ -22,36 +22,36 @@ We will discuss the challenges and opportunities associated with emerging IoT te
 ## Accepted Papers
 
 ### Low-Cost Millimeter-Wave Interactive Sensing through Origami Reflectors
-- Riku Arakawa and Yang Zhang	
+- Riku Arakawa, Yang Zhang	
  
 ### Field Lab: An Intelligent Ecosystem for Longitudinal Design Research
-- Peter Lovei, Eva Deckers, Mathias Funk and Stephan Wensveen	
+- Peter Lovei, Eva Deckers, Mathias Funk, Stephan Wensveen	
  
 ### External Communication for Automated Vehicles (AV): Designing for AV-Pedestrian Interactions
-- Debargha Dey, Bastian Pfleging, Marieke Martens and Jacques Terken	
+- Debargha Dey, Bastian Pfleging, Marieke Martens, Jacques Terken	
  
 ### Cooperation and Competition in the IoT Sandbox
-- Joep Frens and Mathias Funk	
+- Joep Frens, Mathias Funk	
  
 ### Personal Hygiene Monitoring Under the Shower Using WiFi Channel State Information
-- Jeroen Klein Brinke, Alessandro Chiumento and Paul Havinga	
+- Jeroen Klein Brinke, Alessandro Chiumento, Paul Havinga	
  
 ### ESPBoost: A Rapid Prototyping Toolkit for Helping Designers Create the Internet of Tangible Things
-- Sark Xing and Yaliang Chuang	
+- Sark Xing, Yaliang Chuang	
  
 ### Human Computer Interaction aspects of Low-Power Wide Area Networks for Wearable Applications
-- Charalampos Orfanidis, Martin Jacobsson and Xenofon Fafoutis	
+- Charalampos Orfanidis, Martin Jacobsson, Xenofon Fafoutis	
 
 ## Accepted Posters
  
 ### Communication with Ambient Light using Digital Micromirror Devices
-- Roy Blokker, Talia Xu and Marco Zuniga	
+- Roy Blokker, Talia Xu, Marco Zuniga	
  
 ### Data Design Futures: Who is Responsible?
 - Renee Noortman	
  
 ### Epidermal Sensing of Muscle Compensation
-- Pei-Shin Hwang, Yi-Ting Wu and Polly Huang	
+- Pei-Shin Hwang, Yi-Ting Wu, Polly Huang	
 
 ## Call for Participation
 We invite position papers for the **1st Workshop on Computer Human Interaction in IoT Applications (CHIIoT)**. This half-day workshop will offer a cross-disciplinary forum of discussion and knowledge exchange for researchers in the both fields. This workshop looking at the intersection of IoT and CHI, where IoT platforms focusing on human-centered applications and CHI studies using IoT solutions to build interactive environments.  
