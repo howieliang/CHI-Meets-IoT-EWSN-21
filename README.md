@@ -7,9 +7,9 @@
 ## Free registration!
 **The 1st CHIIoT workshop will be held on Feb. 17, 2pm - 5pm (CET).** Together with other co-sponsors (Huawei & CPI-lab), we make this year EWSN/CHIIoT FREE to attend! The registration is free for all participants to the main conference and co-located workshop and tutorials. 
  
-Online registration URL: https://www.eventbrite.com/e/ewsn21-registration-134394829553
+**Registration: [Link](https://www.eventbrite.com/e/ewsn21-registration-134394829553)**
 
-Both CHIIoT and the EWSN’21 conference will be held fully online, and the registration details can be found on https://ewsn2021.ewi.tudelft.nl/registration
+Both CHIIoT and the EWSN’21 conference will be held fully online, and more registration details can be found on https://ewsn2021.ewi.tudelft.nl/registration
 
 In CHIIoT, we will use Discord with the Zoom Webinar for online discussions and face-to-face meetings. Discord provides a face-to-face experience during the coffee break and interactive poster presentations and a live texting channel for online and off-line discussions.
 
