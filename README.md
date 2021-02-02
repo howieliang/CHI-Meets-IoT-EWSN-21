@@ -4,9 +4,9 @@
 ![Banner](social2.jpg)
 <sub><span style="color:gray">Image via [Stockvault](https://www.stockvault.net/) (copyright-free)</span></sub>
 
-# [Free Registration! <u>Link</u>](https://www.eventbrite.com/e/ewsn21-registration-134394829553)
+# [<u> Free Registration Link</u>](https://www.eventbrite.com/e/ewsn21-registration-134394829553)
 
-## **The 1st CHIIoT workshop will be held on Feb. 17, 2pm - 5pm (CET).** Together with other co-sponsors (Huawei & CPI-lab), we make this year EWSN/CHIIoT FREE to attend! The registration is also free for all participants to attend the main EWSN’21 conference and co-located tutorials. 
+### **The 1st CHIIoT workshop will be held on Feb. 17, 2pm - 5pm (CET).** Together with other co-sponsors (Huawei & CPI-lab), we make this year EWSN/CHIIoT **FREE** to attend! The registration is also free for all participants to attend the main **[EWSN 2021](https://ewsn2021.ewi.tudelft.nl/)** conference and the co-located tutorials. 
 
 Both CHIIoT and the EWSN’21 conference will be held fully online, and more registration details can be found here **[Link](https://ewsn2021.ewi.tudelft.nl/registration)**
 
@@ -18,8 +18,6 @@ The *CHIIoT* workshop brings together researchers and practitioners from industr
 
 ## Goal of *CHIIoT*
 We will discuss the challenges and opportunities associated with emerging IoT technologies in human-centered applications. It will bring together an international and cross-disciplinary group of researchers from academia and industry to collaborate and explore the topic. We aim at building a community in which CHI and IoT researchers can exchange views and begin fruitful collaboration.
-
----
 
 ## Accepted Papers
 
@@ -54,8 +52,6 @@ We will discuss the challenges and opportunities associated with emerging IoT te
  
 ### Epidermal Sensing of Muscle Compensation
 - Pei-Shin Hwang, Yi-Ting Wu and Polly Huang	
-
----
 
 ## Call for Participation
 We invite position papers for the **1st Workshop on Computer Human Interaction in IoT Applications (CHIIoT)**. This half-day workshop will offer a cross-disciplinary forum of discussion and knowledge exchange for researchers in the both fields. This workshop looking at the intersection of IoT and CHI, where IoT platforms focusing on human-centered applications and CHI studies using IoT solutions to build interactive environments.  
