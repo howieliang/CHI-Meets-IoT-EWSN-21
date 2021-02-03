@@ -1,6 +1,8 @@
 <!-- ## EWSN '21 Workshop on Computer-Human Interaction and human-centered Applications Using IoT Solutions
 **Feburary 17, 2021. Delft, The Netherlands** -->
 
+<link rel="shortcut icon" type="image/x-icon" href="icon.png">
+
 ![Banner](social3.png)
 <sub><span style="color:gray">Image via [Stockvault](https://www.stockvault.net/) (copyright-free)</span></sub>
 
@@ -88,6 +90,7 @@ All materials must be submitted electronically to
 The organising team combines expertise and interests from Computer-Human Interaction, Electrical Engineering and Computer Science. 
 
 ### General Co-Chairs
+
 **[Rong-Hao Liang](https://howieliang.github.io/)** is an Assistant Professor in  Industrial Design Department and Electrical Engineering Department, Eindhoven University of Technology. He is also the co-founder of GaussToys Inc. He is interested in technical HCI research, focusing on sensing systems and rapid prototyping tools for applications in ubiquitous computing and human-computer interaction.
 
 **[Alessandro Chiumento](https://people.utwente.nl/a.chiumento)** is an Assistant Professor in Computer Science in the Pervasive Systems research group at the University of Twente. His work is focused on the interaction between distributed dynamical systems and their environment, this includes the interplay between edge computing, sensing and machine learning for controlling IoT networks.  
