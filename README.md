@@ -99,7 +99,7 @@ The organising team combines expertise and interests from Computer-Human Interac
 
 **[Przemysław Pawełczak](http://www.pawelczak.net/)** is an Assistant Professor with the Embedded and Networked Systems Group, Delft University of Technology, The Netherlands. He received the MSc degree from the Wroc{\l}aw University of Technology, Poland, in 2004 and the PhD degree from the Delft University of Technology, The Netherlands, in 2009. His research interests include wireless networking and intermittently-powered devices.
 
-### Publicity Chair
+### Publication Chair
 
 **[Mathias Funk](https://www.mathias-funk.com/)** is an Associate Professor in Industrial Design Department, Eindhoven University of Technology. He leads the Things Ecology lab. In addition, he is the co-founder of UXsuite GmbH, a high-tech spin-off of Eindhoven University of Technology (TU/e). He is interested in design theory and processes for systems, designing systems for musical expression, and designing with data.  
 
