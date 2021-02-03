@@ -1,22 +1,22 @@
 <!-- ## EWSN '21 Workshop on Computer-Human Interaction and human-centered Applications Using IoT Solutions
 **Feburary 17, 2021. Delft, The Netherlands** -->
 
-![Banner](social2.jpg)
+![Banner](social3.png)
 <sub><span style="color:gray">Image via [Stockvault](https://www.stockvault.net/) (copyright-free)</span></sub>
 
 # [<u> Free Registration Link</u>](https://www.eventbrite.com/e/ewsn21-registration-134394829553)
 
-### **The 1st CHIIoT workshop will be held on Feb. 17, 2pm - 5pm (CET).** Together with other co-sponsors (Huawei & CPI-lab), we make this CHIIoT workshop FREE to attend! The registration is also free for all CHIIoT participants to attend the main **[EWSN 2021](https://ewsn2021.ewi.tudelft.nl/)** conference and the co-located tutorials. 
+### **The 1st CHIIoT workshop (CHIIoT 1) will be held on Feb. 17, 2pm - 5pm (CET).** Together with other co-sponsors (Huawei & CPI-lab), we make this CHIIoT 1 workshop FREE to attend! The registration is also free for all CHIIoT 1 participants to attend the main **[EWSN 2021](https://ewsn2021.ewi.tudelft.nl/)** conference and the co-located tutorials. 
 
-Both CHIIoT and the EWSN’21 conference will be held fully online, and more registration details can be found via the **[Link](https://ewsn2021.ewi.tudelft.nl/registration)**
+Both CHIIoT 1 and the EWSN’21 conference will be held fully online, and more registration details can be found via the **[Link](https://ewsn2021.ewi.tudelft.nl/registration)**
 
-In CHIIoT, we will use Discord with the Zoom Webinar for online discussions and face-to-face meetings. Discord provides a face-to-face experience during the coffee break and interactive poster presentations and a live texting channel for online and off-line discussions.
+In CHIIoT 1, we will use *Discord* with the *Zoom Webinar* for online discussions and face-to-face meetings. Discord provides a face-to-face experience during the coffee break and interactive poster presentations and a live texting channel for online and off-line discussions.
 
-## Welcome to *CHIIoT*: 1st Workshop on Computer Human Interaction in IoT Applications
+## Welcome to *CHIIoT 1*: 1st Workshop on Computer Human Interaction in IoT Applications
 
-The *CHIIoT* workshop brings together researchers and practitioners from industrial design, computer science, and electrical engineering working on new challenges in industry and academia. The workshop will provide a platform for participants to review and discuss challenges and opportunities in the intersection of computer-human interaction and the internet of things, focusing on human-centered applications using emerging connectivity and sensing technologies. We aim to jointly develop a design space and identify opportunities for future research. This workshop will be co-located with **[EWSN 2021](https://ewsn2021.ewi.tudelft.nl/)**: The 18th International Conference on Embedded Wireless Systems and Networks.
+The *CHIIoT* workshop series bring together researchers and practitioners from HCI design, computer science, and electrical engineering working on new challenges in industry and academia. The workshop will provide a platform for participants to review and discuss challenges and opportunities in the intersection of computer-human interaction and the internet of things, focusing on human-centered applications using emerging connectivity and sensing technologies. We aim to jointly develop a design space and identify opportunities for future research. The first workshop (CHIIoT 1) will be co-located with **[EWSN 2021](https://ewsn2021.ewi.tudelft.nl/)**: The 18th International Conference on Embedded Wireless Systems and Networks.
 
-## Goal of *CHIIoT*
+## Goal of *CHIIoT* workshop series
 We will discuss the challenges and opportunities associated with emerging IoT technologies in human-centered applications. It will bring together an international and cross-disciplinary group of researchers from academia and industry to collaborate and explore the topic. We aim at building a community in which CHI and IoT researchers can exchange views and begin fruitful collaboration.
 
 ## Accepted Papers
@@ -54,7 +54,7 @@ We will discuss the challenges and opportunities associated with emerging IoT te
 - Pei-Shin Hwang, Yi-Ting Wu, Polly Huang	
 
 ## Call for Participation
-We invite position papers for the **1st Workshop on Computer Human Interaction in IoT Applications (CHIIoT)**. This half-day workshop will offer a cross-disciplinary forum of discussion and knowledge exchange for researchers in the both fields. This workshop looking at the intersection of IoT and CHI, where IoT platforms focusing on human-centered applications and CHI studies using IoT solutions to build interactive environments.  
+We invite position papers for the **1st Workshop on Computer Human Interaction in IoT Applications (CHIIoT 1)**. This half-day workshop will offer a cross-disciplinary forum of discussion and knowledge exchange for researchers in the both fields. This workshop looking at the intersection of IoT and CHI, where IoT platforms focusing on human-centered applications and CHI studies using IoT solutions to build interactive environments.  
 
 Topics of interest include but are not limited to: 
 - Emotion recognition and affective computing in IoT 
@@ -87,15 +87,22 @@ All materials must be submitted electronically to
 ## Organizers
 The organising team combines expertise and interests from Computer-Human Interaction, Electrical Engineering and Computer Science. 
 
+###General Co-Chairs
 **[Rong-Hao Liang](https://howieliang.github.io/)** is an Assistant Professor in  Industrial Design Department and Electrical Engineering Department, Eindhoven University of Technology. He is also the co-founder of GaussToys Inc. He is interested in technical HCI research, focusing on sensing systems and rapid prototyping tools for applications in ubiquitous computing and human-computer interaction.
 
 **[Alessandro Chiumento](https://people.utwente.nl/a.chiumento)** is an Assistant Professor in Computer Science in the Pervasive Systems research group at the University of Twente. His work is focused on the interaction between distributed dynamical systems and their environment, this includes the interplay between edge computing, sensing and machine learning for controlling IoT networks.  
 
-**[Marco Zuniga](http://www.st.ewi.tudelft.nl/marco/)** is an Associate Professor in Computer Science Department, Delft University of Technology. His research interests are broadly in the areas of the Internet of Things (IoT), visible light communication, pervasive computing, wireless networks and cyber physical systems (CPS). He is particularly interested in research problems that are amenable to both, simple mathematical analysis and system evaluation.
+###Technical Program Committee Chair
 
 **[Przemysław Pawełczak](http://www.pawelczak.net/)** is an Assistant Professor with the Embedded and Networked Systems Group, Delft University of Technology, The Netherlands. He received the MSc degree from the Wroc{\l}aw University of Technology, Poland, in 2004 and the PhD degree from the Delft University of Technology, The Netherlands, in 2009. His research interests include wireless networking and intermittently-powered devices.
 
+###Publicity Chair
+
 **[Mathias Funk](https://www.mathias-funk.com/)** is an Associate Professor in Industrial Design Department, Eindhoven University of Technology. He leads the Things Ecology lab. In addition, he is the co-founder of UXsuite GmbH, a high-tech spin-off of Eindhoven University of Technology (TU/e). He is interested in design theory and processes for systems, designing systems for musical expression, and designing with data.  
+
+###Local Co-Chairs
+
+**[Marco Zuniga](http://www.st.ewi.tudelft.nl/marco/)** is an Associate Professor in Computer Science Department, Delft University of Technology. His research interests are broadly in the areas of the Internet of Things (IoT), visible light communication, pervasive computing, wireless networks and cyber physical systems (CPS). He is particularly interested in research problems that are amenable to both, simple mathematical analysis and system evaluation.
 
 **[Yaliang Chuang](https://www.tue.nl/en/research/researchers/yaliang-chuang/)** is an Assistant Professor in Industrial Design Department, Eindhoven University of Technology. His research focuses on exploring the applications and user experience of connected products or systems, such as Smart Home, utilizing LED light patterns and sounds for expressing easy-to-understand semantic meanings to facilitate natural and seamless interactions.   
 
