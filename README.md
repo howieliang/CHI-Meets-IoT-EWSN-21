@@ -87,20 +87,20 @@ All materials must be submitted electronically to
 ## Organizers
 The organising team combines expertise and interests from Computer-Human Interaction, Electrical Engineering and Computer Science. 
 
-###General Co-Chairs
+### General Co-Chairs
 **[Rong-Hao Liang](https://howieliang.github.io/)** is an Assistant Professor in  Industrial Design Department and Electrical Engineering Department, Eindhoven University of Technology. He is also the co-founder of GaussToys Inc. He is interested in technical HCI research, focusing on sensing systems and rapid prototyping tools for applications in ubiquitous computing and human-computer interaction.
 
 **[Alessandro Chiumento](https://people.utwente.nl/a.chiumento)** is an Assistant Professor in Computer Science in the Pervasive Systems research group at the University of Twente. His work is focused on the interaction between distributed dynamical systems and their environment, this includes the interplay between edge computing, sensing and machine learning for controlling IoT networks.  
 
-###Technical Program Committee Chair
+### Technical Program Committee Chair
 
 **[Przemysław Pawełczak](http://www.pawelczak.net/)** is an Assistant Professor with the Embedded and Networked Systems Group, Delft University of Technology, The Netherlands. He received the MSc degree from the Wroc{\l}aw University of Technology, Poland, in 2004 and the PhD degree from the Delft University of Technology, The Netherlands, in 2009. His research interests include wireless networking and intermittently-powered devices.
 
-###Publicity Chair
+### Publicity Chair
 
 **[Mathias Funk](https://www.mathias-funk.com/)** is an Associate Professor in Industrial Design Department, Eindhoven University of Technology. He leads the Things Ecology lab. In addition, he is the co-founder of UXsuite GmbH, a high-tech spin-off of Eindhoven University of Technology (TU/e). He is interested in design theory and processes for systems, designing systems for musical expression, and designing with data.  
 
-###Local Co-Chairs
+### Local Co-Chairs
 
 **[Marco Zuniga](http://www.st.ewi.tudelft.nl/marco/)** is an Associate Professor in Computer Science Department, Delft University of Technology. His research interests are broadly in the areas of the Internet of Things (IoT), visible light communication, pervasive computing, wireless networks and cyber physical systems (CPS). He is particularly interested in research problems that are amenable to both, simple mathematical analysis and system evaluation.
 
