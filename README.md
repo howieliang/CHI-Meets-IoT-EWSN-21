@@ -15,13 +15,13 @@ In CHIIoT 1, we will use *Discord* with the *Zoom Webinar* for online discussion
 # Program (Timezone: CET)
 ---
 ## 1:00-2:00 Registration (via Discord)
-## 2:00-2:30 Opening & Best Paper Award (30 min)
+## 2:00-2:30 Opening & CHIIoT 1 Best Paper Award (30 min)
 ### Low-Cost Millimeter-Wave Interactive Sensing through Origami Reflectors
 - Riku Arakawa, Yang Zhang	
 
 ## 2:30-2:40 Posters & B.Y.O.Coffee Break (10 min)
 
-## 2:40-3:25 Session 1: IoT (45 min)
+## 2:40-3:25 Session 1: IoT in Human-Centered Applications (45 min)
 ### Personal Hygiene Monitoring Under the Shower Using WiFi Channel State Information
 - Jeroen Klein Brinke, Alessandro Chiumento, Paul Havinga	
  
@@ -43,7 +43,7 @@ In CHIIoT 1, we will use *Discord* with the *Zoom Webinar* for online discussion
 
 ## 3:35-4:00 Posters & B.Y.O.Coffee Break (25 min)
 
-## 4:05-4:50 Session 2: CHI (45 min)
+## 4:05-4:50 Session 2: CHI in IoT Applications (45 min)
 ### Field Lab: An Intelligent Ecosystem for Longitudinal Design Research
 - Peter Lovei, Eva Deckers, Mathias Funk, Stephan Wensveen	
 
@@ -54,7 +54,7 @@ In CHIIoT 1, we will use *Discord* with the *Zoom Webinar* for online discussion
 - Joep Frens, Mathias Funk	
 
 ## 4:45-4:50 B.Y.O.Coffee Break (5 min)
-## 4:50-5:00 Closing, Best Talk Award, and Outlook  (10 min)
+## 4:50-5:00 Closing, CHIIoT 1 Best Talk Award, and Outlook  (10 min)
 
 
 ## Welcome to *CHIIoT 1*: 1st Workshop on Computer Human Interaction in IoT Applications
