@@ -14,27 +14,16 @@ Both CHIIoT 1 and the EWSN’21 conference will be held fully online, and more r
 
 In CHIIoT 1, we will use *Discord* with the *Zoom Webinar* for online discussions and face-to-face meetings. Discord provides a face-to-face experience during the coffee break and interactive poster presentations and a live texting channel for online and off-line discussions.
 
-## Welcome to *CHIIoT 1*: 1st Workshop on Computer Human Interaction in IoT Applications
-
-The *CHIIoT* workshop series bring together researchers and practitioners from HCI design, computer science, and electrical engineering working on new challenges in industry and academia. The workshop will provide a platform for participants to review and discuss challenges and opportunities in the intersection of computer-human interaction and the internet of things, focusing on human-centered applications using emerging connectivity and sensing technologies. We aim to jointly develop a design space and identify opportunities for future research. The first workshop (CHIIoT 1) will be co-located with **[EWSN 2021](https://ewsn2021.ewi.tudelft.nl/)**: The 18th International Conference on Embedded Wireless Systems and Networks.
-
-## Goal of *CHIIoT* workshop series
-We will discuss the challenges and opportunities associated with emerging IoT technologies in human-centered applications. It will bring together an international and cross-disciplinary group of researchers from academia and industry to collaborate and explore the topic. We aim at building a community in which CHI and IoT researchers can exchange views and begin fruitful collaboration.
-
-## Accepted Papers
-
+# Program (CET)
+---
+## 1:00-2:00 Registration (via Discord)
+## 2:00-2:30 Opening & Best Paper Award (30 min)
 ### Low-Cost Millimeter-Wave Interactive Sensing through Origami Reflectors
 - Riku Arakawa, Yang Zhang	
- 
-### Field Lab: An Intelligent Ecosystem for Longitudinal Design Research
-- Peter Lovei, Eva Deckers, Mathias Funk, Stephan Wensveen	
- 
-### External Communication for Automated Vehicles (AV): Designing for AV-Pedestrian Interactions
-- Debargha Dey, Bastian Pfleging, Marieke Martens, Jacques Terken	
- 
-### Cooperation and Competition in the IoT Sandbox
-- Joep Frens, Mathias Funk	
- 
+
+## 2:30-2:40 Posters & B.Y.O.Coffee Break (10 min)
+
+## 2:40-3:25 Session 1: IoT (45 min)
 ### Personal Hygiene Monitoring Under the Shower Using WiFi Channel State Information
 - Jeroen Klein Brinke, Alessandro Chiumento, Paul Havinga	
  
@@ -44,8 +33,7 @@ We will discuss the challenges and opportunities associated with emerging IoT te
 ### Human Computer Interaction aspects of Low-Power Wide Area Networks for Wearable Applications
 - Charalampos Orfanidis, Martin Jacobsson, Xenofon Fafoutis	
 
-## Accepted Posters
- 
+## 3:25-3:35 Posters Pitch (10 min)
 ### Communication with Ambient Light using Digital Micromirror Devices
 - Roy Blokker, Talia Xu, Marco Zuniga	
  
@@ -54,6 +42,31 @@ We will discuss the challenges and opportunities associated with emerging IoT te
  
 ### Epidermal Sensing of Muscle Compensation
 - Pei-Shin Hwang, Yi-Ting Wu, Polly Huang	
+
+## 3:35-4:00 Posters & B.Y.O.Coffee Break (25 min)
+
+## 4:05-4:50 Session 2: CHI (45 min)
+### Field Lab: An Intelligent Ecosystem for Longitudinal Design Research
+- Peter Lovei, Eva Deckers, Mathias Funk, Stephan Wensveen	
+
+### External Communication for Automated Vehicles (AV): Designing for AV-Pedestrian Interactions
+- Debargha Dey, Bastian Pfleging, Marieke Martens, Jacques Terken	
+ 
+### Cooperation and Competition in the IoT Sandbox
+- Joep Frens, Mathias Funk	
+
+## 4:45-4:50 B.Y.O.Coffee Break (5 min)
+## 4:50-5:00 Closing, Best Talk Award, and Outlook  (10 min)
+
+
+## Welcome to *CHIIoT 1*: 1st Workshop on Computer Human Interaction in IoT Applications
+
+The *CHIIoT* workshop series bring together researchers and practitioners from HCI design, computer science, and electrical engineering working on new challenges in industry and academia. The workshop will provide a platform for participants to review and discuss challenges and opportunities in the intersection of computer-human interaction and the internet of things, focusing on human-centered applications using emerging connectivity and sensing technologies. We aim to jointly develop a design space and identify opportunities for future research. The first workshop (CHIIoT 1) will be co-located with **[EWSN 2021](https://ewsn2021.ewi.tudelft.nl/)**: The 18th International Conference on Embedded Wireless Systems and Networks.
+
+## Goal of *CHIIoT* workshop series
+We will discuss the challenges and opportunities associated with emerging IoT technologies in human-centered applications. It will bring together an international and cross-disciplinary group of researchers from academia and industry to collaborate and explore the topic. We aim at building a community in which CHI and IoT researchers can exchange views and begin fruitful collaboration.
+
+---
 
 ## Call for Participation
 We invite position papers for the **1st Workshop on Computer Human Interaction in IoT Applications (CHIIoT 1)**. This half-day workshop will offer a cross-disciplinary forum of discussion and knowledge exchange for researchers in the both fields. This workshop looking at the intersection of IoT and CHI, where IoT platforms focusing on human-centered applications and CHI studies using IoT solutions to build interactive environments.  
