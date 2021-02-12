@@ -12,49 +12,49 @@
 
 In CHIIoT 1, we will use *Discord* with the *Zoom Webinar* for online discussions and face-to-face meetings. Discord provides a face-to-face experience during the coffee break and interactive poster presentations and a live texting channel for online and off-line discussions.
 
-# Program (Timezone: CET)
+## Program (Timezone: CET)
 ---
-## 1:00-2:00 Registration (via Discord)
-## 2:00-2:30 Opening & CHIIoT 1 Best Paper Award (30 min)
-### Low-Cost Millimeter-Wave Interactive Sensing through Origami Reflectors
-- Riku Arakawa, Yang Zhang	
+### 1:00-2:00 Registration (via Discord)
+### 2:00-2:30 Opening & CHIIoT 1 Best Paper Award (30 min)
+**Low-Cost Millimeter-Wave Interactive Sensing through Origami Reflectors**
+- Riku Arakawa (University of Tokyo), Yang Zhang (UCLA)	
 
-## 2:30-2:40 Posters & B.Y.O.Coffee Break (10 min)
+### 2:30-2:40 Posters & B.Y.O.Coffee Break (10 min)
 
-## 2:40-3:25 Session 1: IoT in Human-Centered Applications (45 min)
-### Personal Hygiene Monitoring Under the Shower Using WiFi Channel State Information
-- Jeroen Klein Brinke, Alessandro Chiumento, Paul Havinga	
+### 2:40-3:25 Session 1: IoT in Human-Centered Applications (45 min)
+**Personal Hygiene Monitoring Under the Shower Using WiFi Channel State Information**
+- Jeroen Klein Brinke (University of Twente), Alessandro Chiumento (University of Twente), Paul Havinga	(University of Twente)
  
-### ESPBoost: A Rapid Prototyping Toolkit for Helping Designers Create the Internet of Tangible Things
-- Sark Xing, Yaliang Chuang	
+**ESPBoost: A Rapid Prototyping Toolkit for Helping Designers Create the Internet of Tangible Things**
+- Sark Xing (TU Eindhoven), Yaliang Chuang (TU Eindhoven)
  
-### Human Computer Interaction aspects of Low-Power Wide Area Networks for Wearable Applications
-- Charalampos Orfanidis, Martin Jacobsson, Xenofon Fafoutis	
+**Human Computer Interaction aspects of Low-Power Wide Area Networks for Wearable Applications**
+- Charalampos Orfanidis (TU Denmark), Martin Jacobsson (KTH Royal Institute of Technology), Xenofon Fafoutis (TU Denmark)	
 
-## 3:25-3:35 Posters Pitch (10 min)
-### Communication with Ambient Light using Digital Micromirror Devices
-- Roy Blokker, Talia Xu, Marco Zuniga	
+### 3:25-3:35 Posters Pitch (10 min)
+**Communication with Ambient Light using Digital Micromirror Devices**
+- Roy Blokker (TU Delft), Talia Xu (TU Delft), Marco Zuniga	(TU Delft)
  
-### Data Design Futures: Who is Responsible?
-- Renee Noortman	
+**Data Design Futures: Who is Responsible?**
+- Renee Noortman (TU Eindhoven)
  
-### Epidermal Sensing of Muscle Compensation
-- Pei-Shin Hwang, Yi-Ting Wu, Polly Huang	
+**Epidermal Sensing of Muscle Compensation**
+- Pei-Shin Hwang (National Taiwan University), Yi-Ting Wu (National Taiwan University), Polly Huang	(National Taiwan University)
 
-## 3:35-4:00 Posters & B.Y.O.Coffee Break (25 min)
+### 3:35-4:00 Posters & B.Y.O.Coffee Break (25 min)
 
-## 4:05-4:50 Session 2: CHI in IoT Applications (45 min)
-### Field Lab: An Intelligent Ecosystem for Longitudinal Design Research
-- Peter Lovei, Eva Deckers, Mathias Funk, Stephan Wensveen	
+### 4:05-4:50 Session 2: CHI in IoT Applications (45 min)
+**Field Lab: An Intelligent Ecosystem for Longitudinal Design Research**
+- Peter Lovei (Philips), Eva Deckers (Philips), Mathias Funk (TU Eindhoven), Stephan Wensveen (TU Eindhoven)
 
-### External Communication for Automated Vehicles (AV): Designing for AV-Pedestrian Interactions
-- Debargha Dey, Bastian Pfleging, Marieke Martens, Jacques Terken	
+**External Communication for Automated Vehicles (AV): Designing for AV-Pedestrian Interactions**
+- Debargha Dey (TU Eindhoven), Bastian Pfleging (TU Eindhoven), Marieke Martens (TU Eindhoven), Jacques Terken (TU Eindhoven)
  
-### Cooperation and Competition in the IoT Sandbox
-- Joep Frens, Mathias Funk	
+**Cooperation and Competition in the IoT Sandbox**
+- Joep Frens (TU Eindhoven), Mathias Funk (TU Eindhoven)	
 
-## 4:45-4:50 B.Y.O.Coffee Break (5 min)
-## 4:50-5:00 Closing, CHIIoT 1 Best Talk Award, and Outlook  (10 min)
+### 4:45-4:50 B.Y.O.Coffee Break (5 min)
+### 4:50-5:00 Closing, CHIIoT 1 Best Talk Award, and Outlook  (10 min)
 
 
 ## Welcome to *CHIIoT 1*: 1st Workshop on Computer Human Interaction in IoT Applications
