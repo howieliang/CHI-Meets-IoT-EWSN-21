@@ -10,9 +10,9 @@
 
 The *CHIIoT* workshop series bring together researchers and practitioners from HCI design, computer science, and electrical engineering working on new challenges in industry and academia. The workshop will provide a platform for participants to review and discuss challenges and opportunities in the intersection of computer-human interaction and the internet of things, focusing on human-centered applications using emerging connectivity and sensing technologies. We aim to jointly develop a design space and identify opportunities for future research. 
 
-The second workshop (CHIIoT 2) will be co-located with **[EICS 2021](https://eics.acm.org/eics2021/)**: The 13th Engineering Interactive Computing Systems (EICS) conference.
+The second workshop (__CHIIoT 2__) will be co-located with **[EICS 2021](https://eics.acm.org/eics2021/)**: The 13th Engineering Interactive Computing Systems (EICS) conference.
 
-** Check Previous [CHIIoT 1](CHIIoT1/) Workshop **
+__Check Previous [CHIIoT 1](CHIIoT1/) Workshop__
 
 ## Goal of *CHIIoT* workshop series
 We will discuss the challenges and opportunities associated with emerging IoT technologies in human-centered applications. It will bring together an international and cross-disciplinary group of researchers from academia and industry to collaborate and explore the topic. We aim at building a community in which CHI and IoT researchers can exchange views and begin fruitful collaboration.
