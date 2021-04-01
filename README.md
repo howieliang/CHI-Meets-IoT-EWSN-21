@@ -20,8 +20,6 @@ We will discuss the challenges and opportunities associated with emerging IoT te
 ## Attending CHIIoT 2
 In CHIIoT 2, we will use *Discord* with the *Zoom Webinar* for online discussions and face-to-face meetings. Discord provides a face-to-face experience during the coffee break and interactive poster presentations and a live texting channel for online and off-line discussions.
 
----
-
 ## Call for Participation
 We invite position papers for the **1st Workshop on Computer Human Interaction in IoT Applications (CHIIoT 2)**. This half-day workshop will offer a cross-disciplinary forum of discussion and knowledge exchange for researchers in the both fields. This workshop looking at the intersection of IoT and CHI, where IoT platforms focusing on human-centered applications and CHI studies using IoT solutions to build interactive environments.  
 
@@ -46,7 +44,7 @@ At least one author of each accepted paper must register for the workshop and fo
 **Submission Platform**	
 
 All materials must be submitted electronically to 
-**[EasyChair System](TBD)** by the deadline.
+**[EasyChair System](https://easychair.org/conferences/?conf=chiiot2)** by the deadline.
 
 **Important Dates**
 - Abstract deadlines for position papers: April 28, 2020 (AoE)
@@ -76,7 +74,7 @@ The organising team combines expertise and interests from Computer-Human Interac
 TBD -->
 
 ## Contact Us
-If you have questions or need further information, please contact us via [email](mailto:r.liang@tue.nl) with a subject "CHIIoT 2: (your question)".
+If you have questions or need further information, please contact us via [email:chiiot2@easychair.org](mailto:chiiot2@easychair.org) with a subject "CHIIoT 2: (your question)".
 
 ## Acknowledgments
 This workshop is supported by the 4TU.NIRICT community funding.
