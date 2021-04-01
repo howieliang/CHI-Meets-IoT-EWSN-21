@@ -12,7 +12,7 @@ The *CHIIoT* workshop series bring together researchers and practitioners from H
 
 The second workshop (CHIIoT 2) will be co-located with **[EICS 2021](https://eics.acm.org/eics2021/)**: The 13th Engineering Interactive Computing Systems (EICS) conference.
 
-Check Previous [CHIIoT 1](CHIIoT1/)
+** Check Previous [CHIIoT 1](CHIIoT1/) Workshop **
 
 ## Goal of *CHIIoT* workshop series
 We will discuss the challenges and opportunities associated with emerging IoT technologies in human-centered applications. It will bring together an international and cross-disciplinary group of researchers from academia and industry to collaborate and explore the topic. We aim at building a community in which CHI and IoT researchers can exchange views and begin fruitful collaboration.
@@ -58,7 +58,7 @@ All materials must be submitted electronically to
 ## Organizers
 The organising team combines expertise and interests from Computer-Human Interaction, Electrical Engineering and Computer Science. 
 
-**[Rong-Hao Liang](https://howieliang.github.io/)** is an Assistant Professor in  Industrial Design Department and Electrical Engineering Department, Eindhoven University of Technology. He is also the co-founder of GaussToys Inc. He is interested in technical HCI research, focusing on sensing systems and rapid prototyping tools for applications in ubiquitous computing and human-computer interaction.
+**[Rong-Hao Liang](https://ronghaoliang.page/)** is an Assistant Professor in Industrial Design Department and Electrical Engineering Department, Eindhoven University of Technology. He is also the co-founder of GaussToys Inc. He is interested in technical HCI research, focusing on sensing systems and rapid prototyping tools for applications in ubiquitous computing and human-computer interaction.
 
 **[Alessandro Chiumento](https://people.utwente.nl/a.chiumento)** is an Assistant Professor in Computer Science in the Pervasive Systems research group at the University of Twente. His work is focused on the interaction between distributed dynamical systems and their environment, this includes the interplay between edge computing, sensing and machine learning for controlling IoT networks.  
 
@@ -70,7 +70,7 @@ The organising team combines expertise and interests from Computer-Human Interac
 
 **[Yaliang Chuang](https://www.tue.nl/en/research/researchers/yaliang-chuang/)** is an Assistant Professor in Industrial Design Department, Eindhoven University of Technology. His research focuses on exploring the applications and user experience of connected products or systems, such as Smart Home, utilizing LED light patterns and sounds for expressing easy-to-understand semantic meanings to facilitate natural and seamless interactions.  
 
-**[Joep Frens](https://www.tue.nl/en/research/researchers/yaliang-chuang/)**  Assistant Professor in Industrial Design De-partment, Eindhoven University of Technology. He leads the Con-necting Rich Interaction in Growing Systems (CRIGS) squad in TUEindhoven. Frens is interested in the research question ‘How can wedesign for rich interaction in growing systems?’, which he exploresin a hands-on, making approach together with his students.
+**[Joep Frens](https://www.tue.nl/en/research/researchers/joep-frens/)** is an Assistant Professor in Industrial Design Department, Eindhoven University of Technology. He leads the Connecting Rich Interaction in Growing Systems (CRIGS) squad in TU Eindhoven. Frens is interested in the research question ‘How can wedesign for rich interaction in growing systems?’, which he exploresin a hands-on, making approach together with his students.
 
 <!-- ## Technical Program Committee Members
 TBD -->
