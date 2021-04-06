@@ -12,8 +12,8 @@ The *CHIIoT* workshop series bring together researchers and practitioners from H
 
 The second workshop (__CHIIoT 2__) will be co-located with **[EICS 2021](https://eics.acm.org/eics2021/)**: The 13th ACM SIGCHI Engineering Interactive Computing Systems (EICS) conference.
 
-__Check The Previous [CHIIoT 1](CHIIoT1/) Workshop__
-__Follow Our Recent Activities via The [CHIIoT Facebook Page](https://www.facebook.com/CHIIoTgroup) .
+__Check The Previous [CHIIoT 1](CHIIoT1/) Workshop__ & 
+__Follow Our Recent Activities via The [CHIIoT Facebook Page](https://www.facebook.com/CHIIoTgroup)__.
 
 ## Position Paper Submission Deadline: May 5, 2021 (AoE) (Abstract Deadline: April 28, 2020 (AOE))
 We invite 2-6 pages position paper submissions using the ACM [Two-column SIGCHI Master template](https://www.acm.org/publications/proceedings-template) The submission doesnot have to be anonymized. This position paper should address one or more of the workshop’s topics of interest or suggest another (we encourage visionary and provocative ideas). All submissions will be reviewed by the technical program committee. Paper accompanying demos are encouraged, and will be allocated time in the workshop agenda. Participants will be selected on the basis of the quality of their position paper and on the basis of background and perspective. Multimedia files should be attached as an link in the footnote.
