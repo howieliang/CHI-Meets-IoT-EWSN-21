@@ -14,14 +14,27 @@ The second workshop (__CHIIoT 2__) will be co-located with **[EICS 2021](https:/
 
 __Check Previous [CHIIoT 1](CHIIoT1/) Workshop__
 
-## Goal of *CHIIoT* workshop series
-We will discuss the challenges and opportunities associated with emerging IoT technologies in human-centered applications. It will bring together an international and cross-disciplinary group of researchers from academia and industry to collaborate and explore the topic. We aim at building a community in which CHI and IoT researchers can exchange views and begin fruitful collaboration.
+## Position Paper Submission Deadline (May 5, 2021 (AoE)) (Abstract Deadline: April 28, 2020 (AOE))
+We invite 2-6 pages position paper submissions using the ACM [Two-column SIGCHI Master template](https://www.acm.org/publications/proceedings-template) The submission doesnot have to be anonymized. This position paper should address one or more of the workshop’s topics of interest or suggest another (we encourage visionary and provocative ideas). All submissions will be reviewed by the technical program committee. Paper accompanying demos are encouraged, and will be allocated time in the workshop agenda. Participants will be selected on the basis of the quality of their position paper and on the basis of background and perspective. Multimedia files should be attached as an link in the footnote.
+
+At least one author of each accepted paper must register for the workshop and for one day of the conference itself. Participants will be invited to present a position statement at the workshop and will actively engage in a discourse on the meaningful design space for researching computer-human interaction and human-centered applications in Internet of Things.
+
+At least one author of each accepted paper must register for the workshop and for one day of the conference itself. Participants will be invited to present a position statement at the workshop and will actively engage in a discourse on the meaningful design space for researching computer-human interaction and human-centered applications in Internet of Things.
+
+All materials must be submitted electronically to 
+**[EasyChair System](https://easychair.org/conferences/?conf=chiiot2)** by the deadline.
+
+### FAQ 1: Could we resubmit or feature the work that has been or will be submitted to other venues?##
+**Yes.** CHIIoT workshops are forums for cross-displinary discussion, so Prior/In-Press publications are *allowed and encouraged* to be included in your position papers. Later you can *opt-out* of the public release on our website so it will not introduce any trouble to your under-reviewing, accepted, or future submissions. Nonetheless, please note that your position papers will be shared among all the registered workshop participants. All Camera-Ready papers will be made available for the workshop attendee through a password-protected download link.
+
+### FAQ 2: Could we publish archival papers in CHIIoT? ##
+**Yes.** CHIIoT 2 will published the our own proceedings with CEUR-WS (http://ceur-ws.org/) together with papers accepted in CHIIoT 1, so that your position paper will be indexed in Scopus, Google Scholar, and likely DBLP (http://ceur-ws.org/HOWTOSUBMIT.html). Also, the references will count into the citation statistics of these platforms, gaining your research visibility to the researchers cited by you. Your paper will be open-access and hosted by the CEUR-WS.org under the Creative Commons License Attribution 4.0 International (CC BY 4.0). We will ask for your permission release for this option.  
 
 ## Attending CHIIoT 2
 In CHIIoT 2, we will use *Discord* with the *Zoom Webinar* for online discussions and face-to-face meetings. Discord provides a face-to-face experience during the coffee break and interactive poster presentations and a live texting channel for online and off-line discussions.
 
 ## Call for Participation
-We invite position papers for the **1st Workshop on Computer Human Interaction in IoT Applications (CHIIoT 2)**. This half-day workshop will offer a cross-disciplinary forum of discussion and knowledge exchange for researchers in the both fields. This workshop looking at the intersection of IoT and CHI, where IoT platforms focusing on human-centered applications and CHI studies using IoT solutions to build interactive environments.  
+We invite position papers for the **2nd Workshop on Computer Human Interaction in IoT Applications (CHIIoT 2)**. This half-day workshop will offer a cross-disciplinary forum of discussion and knowledge exchange for researchers in the both fields. This workshop looking at the intersection of IoT and CHI, where IoT platforms focusing on human-centered applications and CHI studies using IoT solutions to build interactive environments.  
 
 Topics of interest include but are not limited to: 
 - Emotion recognition and affective computing in IoT 
