@@ -59,10 +59,10 @@ All materials must be submitted electronically to
 **[EasyChair System](https://easychair.org/conferences/?conf=chiiot2)** by the deadline.
 
 **Important Dates**
-- Abstract deadlines for position papers: April 28, 2020 (AoE)
-- Submission deadline for position papers: May 5, 2021 (AoE)
-- Notification of acceptance: May 12, 2021 (AoE)
-- Camera ready deadline: May 19, 2021 (AoE)
+- Abstract deadlines for position papers: ~~April 28, 2021 (AoE)~~ May 5, 2021 (AoE)
+- Submission deadline for position papers: ~~May 5, 2021 (AoE)~~ May 12, 2021 (AoE)
+- Notification of acceptance: ~~May 12, 2021 (AoE)~~ May 19, 2021 (AoE)
+- Camera ready deadline: ~~May 19, 2021 (AoE)~~ May 26, 2021 (AoE)
 - Workshop date: Jun 8, 2021 (AoE)
 
 ## Organizers
