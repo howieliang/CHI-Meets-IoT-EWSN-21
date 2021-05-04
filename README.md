@@ -15,7 +15,7 @@ The second workshop (__CHIIoT 2__) will be co-located with **[EICS 2021](https:/
 __Check The Previous [CHIIoT 1](CHIIoT1/) Workshop__ & 
 __Follow Our Recent Activities via The [CHIIoT Facebook Page](https://www.facebook.com/CHIIoTgroup)__.
 
-## Position Paper Submission Deadline: May 5, 2021 (AoE) (Abstract Deadline: April 28, 2020 (AOE))
+## Position Paper Submission Deadline: May 12, 2021 (AoE) (Abstract Deadline: May 5, 2021 (AOE))
 We invite 2-6 pages position paper submissions using the ACM [Two-column SIGCHI Master template](https://www.acm.org/publications/proceedings-template) The submission doesnot have to be anonymized. This position paper should address one or more of the workshop’s topics of interest or suggest another (we encourage visionary and provocative ideas). All submissions will be reviewed by the technical program committee. Paper accompanying demos are encouraged, and will be allocated time in the workshop agenda. Participants will be selected on the basis of the quality of their position paper and on the basis of background and perspective. Multimedia files should be attached as an link in the footnote.
 
 At least one author of each accepted paper must register for the workshop and for one day of the conference itself. Participants will be invited to present a position statement at the workshop and will actively engage in a discourse on the meaningful design space for researching computer-human interaction and human-centered applications in Internet of Things. The presenting author will receive a discount for the registration.
