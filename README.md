@@ -17,6 +17,7 @@ In CHIIoT 2, we will use *Discord* with the *Zoom Webinar* for online discussion
 ### 2:05-2:45 Session 1: CHIIoT Perspective Talks @ Zoom
 **[CHI Perspective] Challenge and Opportunities of Repurposing Commodity RFID Tags for HCI**
 - Rong-Hao Liang (TU Eindhoven)
+
 **[IoT Perspective] Human Interaction with Battery-Free Devices**
 - Przemysław Pawełczak (TU Delft)
 
