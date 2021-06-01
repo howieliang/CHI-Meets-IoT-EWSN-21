@@ -6,6 +6,42 @@
 ![Banner](social3.png)
 <sub><span style="color:gray">Image via [Stockvault](https://www.stockvault.net/) (copyright-free)</span></sub>
 
+### **The 2nd CHIIoT workshop (CHIIoT 2) will be held on Jun. 8, 2pm - 5pm (CET).** The registration is free for all ACM EICS 2021 conference participants (https://eics.acm.org/eics2021/)** conference and the co-located tutorials. Both CHIIoT 2 and the EICS 2021 conference will be held fully online, and more registration details can be found via the **[Link](https://web.cvent.com/event/5d2295b4-c3bc-4fc2-9faf-e75520150095/summary)**
+
+In CHIIoT 2, we will use *Discord* with the *Zoom Webinar* for online discussions and face-to-face meetings. Discord provides a face-to-face experience during the coffee break and interactive poster presentations and a live texting channel for online and off-line discussions.
+
+## Program (Timezone: CET)
+---
+### 1:30-2:00 Registration @ Discord
+### 2:00-2:05 Opening @ Zoom
+### 2:05-2:45 Session 1: CHIIoT Perspective Talks @ Zoom
+**[CHI Perspective] Challenge and Opportunities of Repurposing Commodity RFID Tags for HCI**
+- Rong-Hao Liang (TU Eindhoven)
+**[IoT Perspective] Human Interaction with Battery-Free Devices**
+- Przemysław Pawełczak (TU Delft)
+
+### 2:45-3:00 B.Y.O.Coffee Break 1 @ Discord
+
+### 3:00-4:20 Session 2: CHIIoT 2 Papers @ Zoom
+**JoyTilt: Between Autonomy and Control of a Robot Vacuum Cleaner**
+- Jura Miniotaite (KTH Royal Institute of Technology and Interaction Design, Sweden), Vaida Pakulyte (Electrolux, Sweden) and Ylva Fernaeus (KTH Royal Institute of Technology and Interaction Design, Sweden)
+ 
+**Designing Wearable NFC Relays to Enable Body-Centric Interactions for a Smartphone**
+- Huizhong Ye (TU Eindhoven, Netherlands), Chi-Jung Lee (National Taiwan University, Taiwan), Te-Yen Wu (Dartmouth College, USA), Xing-Dong Yang (Dartmouth College, USA), Bing-Yu Chen (National Taiwan University, Taiwan) and Rong-Hao Liang (TU Eindhoven, Netherlands)
+ 
+**Designing Micro-intelligences for Situated Affective Computing**
+- Peter Lovei (Philips and TU Eindhoven, Netherlands), Iryna Nazarchuk (TU Eindhoven, Netherlands), Suhaib Aslam (Philips, Netherlands), Bin Yu (Philips, Netherlands), Carl Megens (Philips, Netherlands) and Natalia Sidorova (TU Eindhoven, Netherlands)
+
+**Smart ARbnb: Smart home interface for Airbnb with augmented reality and visible light communication**
+- Tomas Gecevičius (TU Eindhoven, Netherlands), Yaliang Chuang (TU Eindhoven, Netherlands) and Jingrui An (TU Eindhoven, Netherlands)
+
+### 4:20-4:30 B.Y.O.Coffee Break 2 @ Discord
+
+### 4:30-4:55 Panel Discussion: Designing for CHI x Engineering for IoT @ Zoom
+- CHIIoT Team and All Participants
+
+### 4:50-5:00 Closing (5 min)
+
 ## Welcome to *CHIIoT 2*: 2nd Workshop on Computer Human Interaction in IoT Applications
 
 The *CHIIoT* workshop series bring together researchers and practitioners from HCI design, computer science, and electrical engineering working on new challenges in industry and academia. The workshop will provide a platform for participants to review and discuss challenges and opportunities in the intersection of computer-human interaction and the internet of things, focusing on human-centered applications using emerging connectivity and sensing technologies. We aim to jointly develop a design space and identify opportunities for future research. 
@@ -68,22 +104,34 @@ All materials must be submitted electronically to
 ## Organizers
 The organising team combines expertise and interests from Computer-Human Interaction, Electrical Engineering and Computer Science. 
 
-**[Rong-Hao Liang](https://ronghaoliang.page/)** is an Assistant Professor in Industrial Design Department and Electrical Engineering Department, Eindhoven University of Technology. He is also the co-founder of GaussToys Inc. He is interested in technical HCI research, focusing on sensing systems and rapid prototyping tools for applications in ubiquitous computing and human-computer interaction.
+### General Co-Chairs
 
-**[Alessandro Chiumento](https://people.utwente.nl/a.chiumento)** is an Assistant Professor in Computer Science in the Pervasive Systems research group at the University of Twente. His work is focused on the interaction between distributed dynamical systems and their environment, this includes the interplay between edge computing, sensing and machine learning for controlling IoT networks.  
+**[Rong-Hao Liang](https://ronghaoliang.page/)** is an Assistant Professor in Industrial Design Department and Electrical Engineering Department, Eindhoven University of Technology. He is also the co-founder of GaussToys Inc. He is interested in technical HCI research, focusing on sensing systems and rapid prototyping tools for applications in ubiquitous computing and human-computer interaction.
 
 **[Przemysław Pawełczak](http://www.pawelczak.net/)** is an Assistant Professor with the Embedded and Networked Systems Group, Delft University of Technology, The Netherlands. He received the MSc degree from the Wroc{\l}aw University of Technology, Poland, in 2004 and the PhD degree from the Delft University of Technology, The Netherlands, in 2009. His research interests include wireless networking and intermittently-powered devices.
 
-**[Mathias Funk](https://www.mathias-funk.com/)** is an Associate Professor in Industrial Design Department, Eindhoven University of Technology. He leads the Things Ecology lab. In addition, he is the co-founder of UXsuite GmbH, a high-tech spin-off of Eindhoven University of Technology (TU/e). He is interested in design theory and processes for systems, designing systems for musical expression, and designing with data.  
+ 
+
+### Technical Program Committee Co-Chair
+
+**[Joep Frens](https://www.tue.nl/en/research/researchers/joep-frens/)** is an Assistant Professor in Industrial Design Department, Eindhoven University of Technology. He leads the Connecting Rich Interaction in Growing Systems (CRIGS) squad in TU Eindhoven. Frens is interested in the research question ‘How can we design for rich interaction in growing systems?’, which he explores in a hands-on, making approach together with his students. 
 
 **[Marco Zuniga](http://www.st.ewi.tudelft.nl/marco/)** is an Associate Professor in Computer Science Department, Delft University of Technology. His research interests are broadly in the areas of the Internet of Things (IoT), visible light communication, pervasive computing, wireless networks and cyber physical systems (CPS). He is particularly interested in research problems that are amenable to both, simple mathematical analysis and system evaluation.
 
-**[Yaliang Chuang](https://www.tue.nl/en/research/researchers/yaliang-chuang/)** is an Assistant Professor in Industrial Design Department, Eindhoven University of Technology. His research focuses on exploring the applications and user experience of connected products or systems, such as Smart Home, utilizing LED light patterns and sounds for expressing easy-to-understand semantic meanings to facilitate natural and seamless interactions.  
+### Publication Chair
 
-**[Joep Frens](https://www.tue.nl/en/research/researchers/joep-frens/)** is an Assistant Professor in Industrial Design Department, Eindhoven University of Technology. He leads the Connecting Rich Interaction in Growing Systems (CRIGS) squad in TU Eindhoven. Frens is interested in the research question ‘How can wedesign for rich interaction in growing systems?’, which he exploresin a hands-on, making approach together with his students.
+**[Mathias Funk](https://www.mathias-funk.com/)** is an Associate Professor in Industrial Design Department, Eindhoven University of Technology. He leads the Things Ecology lab. In addition, he is the co-founder of UXsuite GmbH, a high-tech spin-off of Eindhoven University of Technology (TU/e). He is interested in design theory and processes for systems, designing systems for musical expression, and designing with data.  
 
-<!-- ## Technical Program Committee Members
-TBD -->
+### Publicity Chair
+
+**[Alessandro Chiumento](https://people.utwente.nl/a.chiumento)** is an Assistant Professor in Computer Science in the Pervasive Systems research group at the University of Twente. His work is focused on the interaction between distributed dynamical systems and their environment, this includes the interplay between edge computing, sensing and machine learning for controlling IoT networks. 
+
+### Local Co-Chairs
+
+**[Yaliang Chuang](https://www.tue.nl/en/research/researchers/yaliang-chuang/)** is an Assistant Professor in Industrial Design Department, Eindhoven University of Technology. His research focuses on exploring the applications and user experience of connected products or systems, such as Smart Home, utilizing LED light patterns and sounds for expressing easy-to-understand semantic meanings to facilitate natural and seamless interactions.   
+
+**[Zengrong Guo](https://research.tue.nl/en/persons/zengrong-guo)** is an Postdoc Researcher in Industrial Design Department, Eindhoven University of Technology. 
+
 
 ## Contact Us
 If you have questions or need further information, please contact us via [email:chiiot2@easychair.org](mailto:chiiot2@easychair.org) with a subject "CHIIoT 2: (your question)".
