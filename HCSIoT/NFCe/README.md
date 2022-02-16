@@ -1,20 +1,21 @@
 ___Human-Centered Sustainable IoT Capstone Projects___
 
-# SunBox
-__PI: Marco Zuniga, TU Delft__
+# NFCe: Body-Centric Interaction with NFC Devices
+__PI: Rong-Hao Liang, TU/e__
 
 _Researchers:_
-Miguel Tapia (TU Delft), Talia Xu (TU Delft), Zehang Wu (TU Delft), Marco Zuniga (TU Delft)
+Huizhong Ye (TU/e)
 
-**Sunbox uses a natural source of energy (sunlight) to communicate wirelessly.**
+**This project explores a sustainable way of faciliating human-centered interactions with IoT devices, smart environment, and others using passive NFC extenders worn on users' body with a smartphone.**
 ![Banner](banner.png)
 
 ## Abstract
-A recent development in wireless communication is the use of optical shutters and smartphone cameras to create optical links solely from ambient light. At the transmitter, a liquid crystal display (LCD) modulates ambient light by changing its level of transparency. At the receiver, a smartphone camera decodes the optical pattern. This LCD-to-camera link requires low-power levels at the transmitter, and it is easy to deploy because it does not require modifying the existing lighting infrastructure. The system, however, provides a low data rate, of just a few tens of bps. This occurs because the LCDs used in the state-of-the-art are slow single-pixel transmitters. To overcome this limitation, we introduce a novel multi-pixel display. Our display is similar to a simple screen, but instead of using embedded LEDs to radiate information, it uses only the surrounding ambient light. We build a prototype, called SunBox, and evaluate it indoors and outdoors with both artificial and natural ambient light. Our results show that SunBox can achieve a throughput between 2 kbps and 10 kbps using a low-end smartphone camera with just 30 FPS. To the best of our knowledge, this is the first screen-to-camera system that works solely with ambient light.
+The application of interactive technology seems to be more and more inseparable from smartphones, so many times we have to take
+out mobile phones to interact, such as NFC-based interaction. In this project, we proposed a body-centric interaction design space, and a design of wearable NFC relays that enable body-centric interactions for a commodity near-field communication (NFC) device. The passive extenders worn on the body can extend the operating range of the NFC reader/writer of a smartphone to the reach of the wearer’s hand, arm, or foot. These NFC devices can capture the near-field interactions between the human body and NFC-tagged objects. We explored the design space and elucidated the applications in human-computer interaction as well as IoT lifestyle. Our implementation demonstrated the proposed applications’ technical feasibility and aroused more ideas in the co-creation workshop to be generated. We also release an open-source library called OpenNFCSense, a system for detecting the movements of near-field communication (NFC) tags using a commodity, low-cost RC522 NFC reader. With a user-defined tag profile, the users can use its application programming interface (API) to obtain the NFC tagged objects’ motion speed, motion frequency, and motion type while recognizing these tagged objects. 
 
 ## Related Publications
-- Miguel Chavez, Talia Xu, Zehang Wu, Marco Zuniga, SunBox: Screen-to-Camera Communication with Ambient Light, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (Accepted with revisions, to be presented at ACM Ubicomp 2022).
-- Zehang Wu, Designing an optical link between a micro-display and a smartphone camera, Master Thesis @ TU Delft, November 2021.
+- Huizhong Ye, NFCe: an NFC-Based Wearable System for Supporting Human-Object Interaction, Master Thesis @ TU Eindhoven, October 2021.
+- Rong-Hao Liang. 2021. OpenNFCSense: Open-Source Library for NFCSense. The Adjunct Publication of the 34th Annual ACM Symposium on User Interface Software and Technology. Association for Computing Machinery, New York, NY, USA, 118–120. DOI:https://doi.org/10.1145/3474349.3480196
 
 ## Acknowledgments
 This project was partially supported by the 4TU.NIRICT community funding.
