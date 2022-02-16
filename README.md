@@ -5,7 +5,6 @@
 
 <!-- [![Banner](banner.png)](/HCSIoT/) -->
 ![Banner](banner.png)
-
 <sub><span style="color:gray">Image via [Stockvault](https://www.stockvault.net/) (copyright-free)</span></sub>
 
 ### (NEW) Check our [Human-Centered Sustainable IoT CapStone Project Gallery](/HCSIoT/)! ###
