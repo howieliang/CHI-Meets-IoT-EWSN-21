@@ -1,5 +1,7 @@
 ___Human-Centered Sustainable IoT Capstone Projects___
 
+## [< Back to Gallery](/HCSIoT/)
+
 # BFree: Battery-Free Prototyping Platform
 __PI: Przemysław Pawełczak, TU Delft__
 
