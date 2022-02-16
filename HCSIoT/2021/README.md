@@ -11,15 +11,15 @@
 
 ### (Jan. 2022) Check the [Human-Centered Sustainable IoT CapStone Project Gallery](/HCSIoT/)!
 
-**(Dec. 2021) With a heavy heart, we decided to postpone the 1st Human-Centered Sustainable IoT Symposium (HCSIoT ‘21) to the next year due to the COVID-19 measure in the Netherlends and the quarantine situation of the organization team members**
+### (Dec. 2021) With a heavy heart, we decided to postpone the 1st Human-Centered Sustainable IoT Symposium (HCSIoT ‘21) to the next year due to the COVID-19 measure in the Netherlends and the quarantine situation of the organization team members**
 
 ## Welcome to *HCSIoT ‘21*: 1st CHIIoT Human-Centered Sustainable IoT Symposium
 This sympsium will be a live-streamed event (link TBD). We will make an uncompromised live physical demo both, which will be streamed with cameras. Live Q&A channel is possible via Discord. Physical attendance will be limited due to the corona measure. Ultimately, we will not open the hall to external guests. 
 
 ## Program (Timezone: CET)
 ---
-### 14:30-14:35 Opening Intro <Who we are + Program> Rong-Hao Liang, TU/e
-### 14:35-14:55 Opening Talk: Designing Shape-Changing Interfaces in IoT - Dr. Anke van Oosterhout, TU/e
+### 14:30-14:35 Opening: Rong-Hao Liang, TU/e
+### 14:35-14:55 Keynote Talk: Designing Shape-Changing Interfaces in IoT - Dr. Anke van Oosterhout, TU/e
 ### 15:00-15:10 Demo #1 - IoT Sandbox, Joep Frens, TU/e [Project page](/HCSIoT/IoTSandBox/)
 ### 15:15-15:25 Demo #2 - SunBox, Marco Zuniga, TU Delft [Project page](/HCSIoT/SunBox/)
 ### 15:30-15:40 Demo #3 - OOCSI@Home, Mathias Funk, TU/e [Project page](/HCSIoT/OOCSIatHome/)
