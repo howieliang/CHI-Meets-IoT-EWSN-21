@@ -3,7 +3,7 @@ ___Human-Centered Sustainable IoT Capstone Projects___
 # BFree: Battery-Free Prototyping Platform
 __PI: Przemysław Pawełczak, TU Delft__
 
-_Researchers: _
+_Researchers:_
 Vito Kortbeek (TU Delft), Abu Bakar (Northwestern University, USA), Stefany Cruz (Northwestern University, USA), Kasim Sinan Yildirim (University of Trento, Italy), Przemysław Pawełczak (TU Delft), Josiah Hester (Northwestern University, USA)
 
 **The battery-free (BFree) prototyping platform allows unskilled electronic hobbyists to prototype, in easy-accessible Python programming language, systems that are battery-free while harvesting energy from the ambient sources.**
