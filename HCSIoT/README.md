@@ -1,12 +1,12 @@
 ___Human-Centered Sustainable IoT Capstone Projects___
 
 ![Banner](banner.png)
-[![P1](p1.png)](/OOCSIatHome/)
-[![P2](p2.png)](/BFree/)
-[![P3](p3.png)](/IoTSandBox/)
-[![P4](p4.png)](/IoTCommunicators/)
-[![P5](p5.png)](/SunBox/)
-[![P6](p6.png)](/NFCe/)
+[![P1](p1.png)](/HCSIoT/OOCSIatHome/)
+[![P2](p2.png)](/HCSIoT/BFree/)
+[![P3](p3.png)](/HCSIoT/IoTSandBox/)
+[![P4](p4.png)](/HCSIoT/IoTCommunicators/)
+[![P5](p5.png)](/HCSIoT/SunBox/)
+[![P6](p6.png)](/HCSIoT/NFCe/)
 
 ## Acknowledgments
 This project was partially supported by the 4TU.NIRICT community funding.
