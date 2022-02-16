@@ -7,7 +7,7 @@
 [![Banner](newban.png)](/HCSIoT/)
 <sub><span style="color:gray">Image via [Stockvault](https://www.stockvault.net/) (copyright-free)</span></sub>
 
-**With the support from 4TU.NIRICT, CHIIoT Group bring together researchers and practitioners from HCI design and IoT system engineering working on new challenges in industry and academia to jointly develop a design space and identify opportunities for future research.**
+**With the support from 4TU.NIRICT, CHIIoT Group brings together researchers and practitioners from HCI design and IoT system engineering working on new challenges in industry and academia to jointly develop a design space and identify opportunities for future research.**
 
 ### (Jan 2021) Check our [Human-Centered Sustainable IoT CapStone Project Gallery](/HCSIoT/)!
 
