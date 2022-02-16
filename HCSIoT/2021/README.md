@@ -5,9 +5,9 @@
 
 ![Banner](banner.png)
 <sub><span style="color:gray">Image via [Stockvault](https://www.stockvault.net/) (copyright-free)</span></sub>
-# 1st CHIIoT Human-Centered Sustainable IoT Symposium (HCSIoT ‘21)
-Dec. 15 14:30 - 17:00
-Location: Blauwe Zaal @ TU Eindhoven
+## 1st CHIIoT Human-Centered Sustainable IoT Symposium (HCSIoT ‘21)
+- Time: Dec. 15 14:30 - 17:00
+- Location: Blauwe Zaal @ TU Eindhoven
 
 ### (Jan. 2022) Check the [Human-Centered Sustainable IoT CapStone Project Gallery](/HCSIoT/)!
 
@@ -20,12 +20,12 @@ This sympsium will be a live-streamed event (link TBD). We will make an uncompro
 ---
 ### 14:30-14:35 Opening Intro <Who we are + Program> Rong-Hao Liang, TU/e
 ### 14:35-14:55 Opening Talk: Designing Shape-Changing Interfaces in IoT - Dr. Anke van Oosterhout, TU/e
-### 15:00-15:10 Demo Presentation 1 - IoT Sandbox, Joep Frens, TU/e
-### 15:15-15:25 Demo Presentation 2 - SunBox, Marco Zuniga, TU Delft
-### 15:30-15:40 Demo Presentation 3 - OOCSI@Home, Mathias Funk, TU/e
-### 15:45-15:55 Demo Presentation 4 - Battery-free prototyping platform, Przemysław Pawełczak, TU Delft
-### 16:00-16:10 Demo Presentation 5 - IoT Communicators, Yaliang Chuang, TU/e
-### 16:15-16:25 Demo Presentation 6 - Multimodal smartphone-based localization, Alessandro Chiumento, UTwente 
+### 15:00-15:10 Demo #1 - IoT Sandbox, Joep Frens, TU/e [Project page](/HCSIoT/IoTSandBox/)
+### 15:15-15:25 Demo #2 - SunBox, Marco Zuniga, TU Delft [Project page](/HCSIoT/SunBox/)
+### 15:30-15:40 Demo #3 - OOCSI@Home, Mathias Funk, TU/e [Project page](/HCSIoT/OOCSIatHome/)
+### 15:45-15:55 Demo #4 - Battery-free prototyping platform, Przemysław Pawełczak, TU Delft [Project page](/HCSIoT/BFree/)
+### 16:00-16:10 Demo #5 - IoT Communicators, Yaliang Chuang, TU/e [Project page](/HCSIoT/IoTCommunicators/)
+### 16:15-16:25 Demo #6 - Multimodal smartphone-based localization, Alessandro Chiumento, UTwente 
 ### 16:30-17:00 Closing Remarks and Live Experience
 
 ## Goal of this *HCSIoT '21* symposium
@@ -39,7 +39,7 @@ Our long-term goal is to bring together an international and cross-disciplinary 
 **[Rong-Hao Liang](https://howieliang.github.io/)** is an Assistant Professor in  Industrial Design Department and Electrical Engineering Department, Eindhoven University of Technology. He is also the co-founder of GaussToys Inc. He is interested in technical HCI research, focusing on sensing systems and rapid prototyping tools for applications in ubiquitous computing and human-computer interaction.
 
 ## Contact Us
-If you have questions or need further information, please contact us via [email](mailto:r.liang@tue.nl) with a subject "CHIIoT 1: (your question)".
+If you have questions or need further information, please contact us via [email](mailto:r.liang@tue.nl) with a subject "HCSIoT '21: (your question)".
 
 ## Acknowledgments
 This workshop is supported by the 4TU.NIRICT community funding and TU Eindhoven.
