@@ -1,44 +1,26 @@
+___Human-Centered Sustainable IoT Capstone Projects___
 
-___ACM TEI '20: ACM Designing Interactive Systems Conference 2020___
+# Capstone Project 4: Battery-free prototyping platform
+__PI: Przemysław Pawełczak, TU Delft__
 
-# CoDa: Collaborative Data Interpretation Through an Interactive Tangible Scatterplot
-__Annemiek Veldhuis, Rong-Hao Liang, Tilde Bekker__
+_Researchers_
+Vito Kortbeek (TU Delft), Abu Bakar (Northwestern University, USA), Stefany Cruz (Northwestern University, USA), Kasim Sinan Yildirim (University of Trento, Italy), Przemysław Pawełczak (TU Delft), Josiah Hester (Northwestern University, USA)
 
-_TU Eindhoven_
-
-[ACM Digital Library](https://dl.acm.org/doi/abs/10.1145/3374920.3374934)
+The battery-free (BFree) prototyping platform allows unskilled electronic hobbyists to prototype, in easy-accessible Python programming language, systems that are battery-free while harvesting energy from the ambient sources.
 
 ## Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0PKsX-YjLng/0.jpg)](https://www.youtube.com/watch?v=0PKsX-YjLng)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Msp5l23rcI8/0.jpg)](https://www.youtube.com/watch?v=Msp5l23rcI8)
 
 ## Abstract
-Tangibles can model abstract structures. One educational subject where this can be utilized is instruction on data visualization inter- pretation. Data physicalizations, tangible representations of data, offer graspable handles for the users to manipulate data visualiza- tions directly so that they can better understand what information they hold. However, investigations on the applicability of interac- tive data physicalizations in educational settings are still sparse. In this paper, we explore how students reason with an interactive tangible scatterplot through a collaborative data interpretation tool, CoDa. We report the design, development, and the user experiences in an exploratory study where 11 students, in groups of 2 to 4, completed a data analysis task with CoDa. The qualitative results show insights in the process of data interpretation, how interaction with the tangibles influenced these data interpretations, how the system aided collaboration and, overall user experience. We believe the results and implications offer a step towards nurturing future educational applications on interactive data physicalizations.
+BFree is a hardware-software system enabling intermittent computing applications (i.e. computing that is accurate and makes progress despite power interrupts) for Adafruit Metro M0 [https://www.adafruit.com/product/3505](https://www.adafruit.com/product/3505) hobbyist-grade embedded platform that is (a) battery-free (i.e. energy is stored in a less-polluting and better maintainable capacitor, instead of a battery) and (b) powered from renewable energy sources. Power interrupts are the result of insatiable energy coming from energy harvesting sources, such as vibrations or solar power. Programs for such intermittency-protected Adafruit Metro M0 boards are written in a regular CircuitPython language. This means that the end user does not need to learn any domain-specific programming language. BFree (in the background) takes care of saving intermediate program state to a non-volatile memory of the BFree shield (i.e. red PCB shown in the photo above) and restores the program state (when the harvested power is again available) from the last moment the system lost power from insufficient harvested energy.
 
-## Keywords
-Data physicalization, Education, Collaborative analysis, InfoVis.
+## Related Publications
+- Vito Kortbeek, Abu Bakar, Stefany Cruz, Kasim Sinan Yildirim, Przemysław Pawełczak, Josiah Hester, BFree: Enabling Battery-Free Sensor Prototyping with Python, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 4, Issue 4, December 2020 and Proceedings of ACM UbiComp 2021
 
-## Cite this work (ACM)
-```
-Annemiek Veldhuis, Rong-Hao Liang, and Tilde Bekker. 2020. CoDa: Collaborative Data Interpretation Through an Interactive Tangible Scatterplot. In <i>Proceedings of the Fourteenth International Conference on Tangible, Embedded, and Embodied Interaction</i> (<i>TEI '20</i>). Association for Computing Machinery, New York, NY, USA, 323–336. DOI:https://doi.org/10.1145/3374920.3374934
-```
+### Press Release:
+[Hackaday.com](https://hackaday.com/2021/09/29/bfree-brings-intermittent-computing-to-python/)
+[Ad.nl](https://www.ad.nl/tech/wordt-de-batterij-in-smartphone-straks-vervangen-voor-een-sensor-op-zonne-energie~a9e51182)
+[Tweakers.net](https://tweakers.net/nieuws/187196/onderzoekers-tu-delft-ontwikkelen-batterijloos-makersplatform-bfree.html)
 
-## Cite this work (Bibtex)
-```
-@inproceedings{10.1145/3374920.3374934,
-author = {Veldhuis, Annemiek and Liang, Rong-Hao and Bekker, Tilde},
-title = {CoDa: Collaborative Data Interpretation Through an Interactive Tangible Scatterplot},
-year = {2020},
-isbn = {9781450361071},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3374920.3374934},
-doi = {10.1145/3374920.3374934},
-abstract = {Tangibles can model abstract structures. One educational subject where this can be utilized is instruction on data visualization inter- pretation. Data physicalizations, tangible representations of data, offer graspable handles for the users to manipulate data visualiza- tions directly so that they can better understand what information they hold. However, investigations on the applicability of interac- tive data physicalizations in educational settings are still sparse. In this paper, we explore how students reason with an interactive tangible scatterplot through a collaborative data interpretation tool, CoDa. We report the design, development, and the user experiences in an exploratory study where 11 students, in groups of 2 to 4, completed a data analysis task with CoDa. The qualitative results show insights in the process of data interpretation, how interaction with the tangibles influenced these data interpretations, how the system aided collaboration and, overall user experience. We believe the results and implications offer a step towards nurturing future educational applications on interactive data physicalizations.},
-booktitle = {Proceedings of the Fourteenth International Conference on Tangible, Embedded, and Embodied Interaction},
-pages = {323–336},
-numpages = {14},
-keywords = {collaborative analysis, education, information visualization, data physicalization, tangible interaction},
-location = {Sydney NSW, Australia},
-series = {TEI '20}
-}
-```
+
+
