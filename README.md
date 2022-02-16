@@ -4,12 +4,20 @@
 <link rel="shortcut icon" type="image/x-icon" href="icon.png">
 
 <!-- [![Banner](banner.png)](/HCSIoT/) -->
-![Banner](banner.png)
+![Banner](newban.png)
 <sub><span style="color:gray">Image via [Stockvault](https://www.stockvault.net/) (copyright-free)</span></sub>
 
 ### (NEW) Check our [Human-Centered Sustainable IoT CapStone Project Gallery](/HCSIoT/)! ###
 
 ### CHIIoT 2021 Workshops 1&2 Proceedings are Now <a href="http://ceur-ws.org/Vol-2996/">Available</a> at CEUR! ###
+
+### The Human-Centered Sustainable IoT Symposium is postponed due to the COVID-19 measure in the Netherlends. ###
+
+## About Us:
+
+
+
+
 
 ### **The 2nd CHIIoT workshop (CHIIoT 2) will be held on Jun. 8, 2pm - 5pm (CET).** The registration is FREE for all participants of the **[ACM EICS 2021 conference](https://eics.acm.org/eics2021/)**. Both CHIIoT 2 and the EICS 2021 conference will be held fully online, and more registration details can be found via the **[Link](https://web.cvent.com/event/5d2295b4-c3bc-4fc2-9faf-e75520150095/summary)**
 
