@@ -3,8 +3,11 @@
 
 <link rel="shortcut icon" type="image/x-icon" href="icon.png">
 
-![Banner](social3.png)
+[![Banner](banner.png)](/HCSIoT/)
+
 <sub><span style="color:gray">Image via [Stockvault](https://www.stockvault.net/) (copyright-free)</span></sub>
+
+### (NEW) Check our [Human-Centered Sustainable IoT CapStone Project Gallery](/HCSIoT/)! ###
 
 ### CHIIoT 2021 Workshops 1&2 Proceedings are Now <a href="http://ceur-ws.org/Vol-2996/">Available</a> at CEUR! ###
 

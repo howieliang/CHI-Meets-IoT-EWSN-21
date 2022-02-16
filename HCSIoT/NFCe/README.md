@@ -6,7 +6,7 @@ ___Human-Centered Sustainable IoT Capstone Projects___
 __PI: Rong-Hao Liang, TU/e__
 
 _Researchers:_
-Huizhong Ye (TU/e)
+Huizhong Ye (TU/e), Rong-Hao Liang (TU/e)
 
 **This project explores a sustainable way of faciliating human-centered interactions with IoT devices, smart environment, and others using passive NFC extenders worn on users' body with a smartphone.**
 ![Banner](banner.png)
