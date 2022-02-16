@@ -9,11 +9,11 @@
 
 **With the support from 4TU.NIRICT, CHIIoT Group bring together researchers and practitioners from HCI design and IoT system engineering working on new challenges in industry and academia to jointly develop a design space and identify opportunities for future research.**
 
-### (NEW) Check our [Human-Centered Sustainable IoT CapStone Project Gallery](/HCSIoT/)!
+### (Jan 2021) Check our [Human-Centered Sustainable IoT CapStone Project Gallery](/HCSIoT/)!
 
 ### CHIIoT 2021 Workshops 1&2 Proceedings are Now <a href="http://ceur-ws.org/Vol-2996/">Available</a> at CEUR!
 
-### The 1st Human-Centered Sustainable IoT Symposium (HCSIoT '21) is postponed due to the COVID-19 measure in the Netherlends.
+### (Dec 2021) The [1st CHIIoT Human-Centered Sustainable IoT Symposium (HCSIoT '21)](/HCSIoT/2021/) is postponed due to the COVID-19 measure in the Netherlends.
 
 ### **The 2nd CHIIoT workshop (CHIIoT 2) will be held on Jun. 8, 2pm - 5pm (CET).** The registration is FREE for all participants of the **[ACM EICS 2021 conference](https://eics.acm.org/eics2021/)**. Both CHIIoT 2 and the EICS 2021 conference will be held fully online, and more registration details can be found via the **[Link](https://web.cvent.com/event/5d2295b4-c3bc-4fc2-9faf-e75520150095/summary)**
 

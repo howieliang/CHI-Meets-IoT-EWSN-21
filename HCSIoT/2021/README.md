@@ -3,7 +3,7 @@
 
 <link rel="shortcut icon" type="image/x-icon" href="icon.png">
 
-![Banner](social3.png)
+![Banner](banner.png)
 <sub><span style="color:gray">Image via [Stockvault](https://www.stockvault.net/) (copyright-free)</span></sub>
 # 1st CHIIoT Human-Centered Sustainable IoT Symposium (HCSIoT ‘21)
 Dec. 15 14:30 - 17:00
