@@ -17,6 +17,8 @@
 
 ### (Nov 2021) The website of [1st CHIIoT Human-Centered Sustainable IoT Symposium (HCSIoT '21)](/HCSIoT/2021/) is online, six capstone projects about Human-Centered Sustainable IoT will be presented as live demos!
 
+---
+
 ## Previous Events
 
 ### **The 2nd CHIIoT workshop (CHIIoT 2) will be held on Jun. 8, 2pm - 5pm (CET).** The registration is FREE for all participants of the **[ACM EICS 2021 conference](https://eics.acm.org/eics2021/)**. Both CHIIoT 2 and the EICS 2021 conference will be held fully online, and more registration details can be found via the **[Link](https://web.cvent.com/event/5d2295b4-c3bc-4fc2-9faf-e75520150095/summary)**
@@ -24,7 +26,7 @@
 In CHIIoT 2, we will use *Discord* with the *Zoom Webinar* for online, face-to-face discussions. Discord provides a face-to-face experience during the coffee break and interactive poster presentations and a live texting channel for online and off-line discussions.
 
 ## Program (Timezone: CET)
----
+
 ### 1:30-2:00 Registration @ Discord
 ### 2:00-2:05 Opening @ Zoom
 ### 2:05-2:45 Session 1: CHIIoT Perspective Talks @ Zoom
