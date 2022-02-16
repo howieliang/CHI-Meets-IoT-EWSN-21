@@ -1,6 +1,6 @@
 ___Human-Centered Sustainable IoT Capstone Projects___
 
-# Battery-free Prototyping Platform
+# BFree: Battery-Free Prototyping Platform
 __PI: Przemysław Pawełczak, TU Delft__
 
 _Researchers_
