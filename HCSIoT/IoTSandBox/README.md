@@ -1,5 +1,7 @@
 ___Human-Centered Sustainable IoT Capstone Projects___
 
+## [< Back to Gallery](/HCSIoT/)
+
 # IoT Sandbox
 __PI: Joep Frens, TU/e__
 

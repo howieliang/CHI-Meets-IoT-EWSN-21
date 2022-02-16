@@ -1,5 +1,7 @@
 ___Human-Centered Sustainable IoT Capstone Projects___
 
+## [< Back to Gallery](/HCSIoT/)
+
 # OOCSI@Home
 __PI: Mathias Funk, TU/e__
 

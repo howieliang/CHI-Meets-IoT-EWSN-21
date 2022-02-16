@@ -5,8 +5,8 @@
 [![P2](p2.png)](/HCSIoT/BFree/)
 [![P3](p3.png)](/HCSIoT/IoTSandBox/)
 [![P5](p5.png)](/HCSIoT/SunBox/)
-[![P4](p4.png)](/HCSIoT/IoTCommunicators/)
 [![P1](p1.png)](/HCSIoT/OOCSIatHome/)
+[![P4](p4.png)](/HCSIoT/IoTCommunicators/)
 [![P6](p6.png)](/HCSIoT/NFCe/)
 
 ## Acknowledgments
