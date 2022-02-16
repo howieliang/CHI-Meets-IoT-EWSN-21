@@ -6,7 +6,8 @@ __PI: Przemysław Pawełczak, TU Delft__
 _Researchers_
 Vito Kortbeek (TU Delft), Abu Bakar (Northwestern University, USA), Stefany Cruz (Northwestern University, USA), Kasim Sinan Yildirim (University of Trento, Italy), Przemysław Pawełczak (TU Delft), Josiah Hester (Northwestern University, USA)
 
-The battery-free (BFree) prototyping platform allows unskilled electronic hobbyists to prototype, in easy-accessible Python programming language, systems that are battery-free while harvesting energy from the ambient sources.
+**The battery-free (BFree) prototyping platform allows unskilled electronic hobbyists to prototype, in easy-accessible Python programming language, systems that are battery-free while harvesting energy from the ambient sources.**
+![Banner](banner.png)
 
 ## Video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Msp5l23rcI8/0.jpg)](https://www.youtube.com/watch?v=Msp5l23rcI8)
@@ -18,9 +19,9 @@ BFree is a hardware-software system enabling intermittent computing applications
 - Vito Kortbeek, Abu Bakar, Stefany Cruz, Kasim Sinan Yildirim, Przemysław Pawełczak, Josiah Hester, BFree: Enabling Battery-Free Sensor Prototyping with Python, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 4, Issue 4, December 2020 and Proceedings of ACM UbiComp 2021
 
 ### Press Release:
-[Hackaday.com](https://hackaday.com/2021/09/29/bfree-brings-intermittent-computing-to-python/)
-[Ad.nl](https://www.ad.nl/tech/wordt-de-batterij-in-smartphone-straks-vervangen-voor-een-sensor-op-zonne-energie~a9e51182)
-[Tweakers.net](https://tweakers.net/nieuws/187196/onderzoekers-tu-delft-ontwikkelen-batterijloos-makersplatform-bfree.html)
+-[Hackaday.com](https://hackaday.com/2021/09/29/bfree-brings-intermittent-computing-to-python/)
+-[Ad.nl](https://www.ad.nl/tech/wordt-de-batterij-in-smartphone-straks-vervangen-voor-een-sensor-op-zonne-energie~a9e51182)
+-[Tweakers.net](https://tweakers.net/nieuws/187196/onderzoekers-tu-delft-ontwikkelen-batterijloos-makersplatform-bfree.html)
 
 
 
