@@ -3,7 +3,8 @@
 
 <link rel="shortcut icon" type="image/x-icon" href="icon.png">
 
-[![Banner](banner.png)](/HCSIoT/)
+<!-- [![Banner](banner.png)](/HCSIoT/) -->
+![Banner](banner.png)
 
 <sub><span style="color:gray">Image via [Stockvault](https://www.stockvault.net/) (copyright-free)</span></sub>
 
